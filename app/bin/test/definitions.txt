@@ -1,3 +1,0 @@
-Word1, word 1::definition1
-
-Word2::definition2
