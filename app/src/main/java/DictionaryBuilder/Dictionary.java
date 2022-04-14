@@ -7,11 +7,11 @@ import java.util.List;
 
 public class Dictionary {
 
-    public static class Builder{
+    public static class DictionaryBuilder{
         private String outputPath;
         private List<DictionaryPage> pages;
 
-        public Builder(String outputPath){
+        public DictionaryBuilder(String outputPath){
             this.outputPath = outputPath;
             pages = new ArrayList<>();
         }
@@ -20,12 +20,12 @@ public class Dictionary {
             return new Dictionary(this);
         }
 
-        public Builder cover(String title, String createdBy){
+        public DictionaryBuilder cover(String title, String createdBy){
             pages.add(new CoverPage(title, createdBy, outputPath));
             return this;
         }
 
-        public Builder content(String contentPath) throws FileNotFoundException{
+        public DictionaryBuilder content(String contentPath) throws FileNotFoundException{
             pages.add(new Content(outputPath, contentPath));
             return this;
         }
@@ -34,7 +34,7 @@ public class Dictionary {
     private List<DictionaryPage> pages;
     
 
-    private Dictionary(Builder builder){
+    private Dictionary(DictionaryBuilder builder){
         pages = builder.pages;
         try {
             for(var page : pages){

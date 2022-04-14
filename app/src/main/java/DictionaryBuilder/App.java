@@ -3,11 +3,9 @@
  */
 package DictionaryBuilder;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.util.Scanner;
+import java.io.FileNotFoundException;
 
-import util.ContentReader;
+import DictionaryBuilder.Dictionary.DictionaryBuilder;
 
 public class App {
     public String getGreeting() {
@@ -20,9 +18,13 @@ public class App {
         // } catch(Exception e){
         //     e.printStackTrace();
         // }
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Content file: ");
-        String path = scanner.nextLine();
-        System.out.println(path);
+        try {
+            DictionaryBuilder builder = new DictionaryBuilder("output/")
+                .cover("The Second Apocalypse", "Andrew Turner")
+                .content("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt");
+            builder.build();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
     }
 }
