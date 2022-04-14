@@ -7,6 +7,6 @@ import org.junit.jupiter.api.Test;
 public class CoverPageTest {
     @Test
     public void createCoverPage(){
-        assertDoesNotThrow(()-> CoverPage.createCoverPage("title", "Me", "output/"));
+        assertDoesNotThrow(()-> new CoverPage("title", "Me", "output/").build());
     }
 }

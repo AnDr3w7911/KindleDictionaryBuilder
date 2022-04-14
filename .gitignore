@@ -2,5 +2,15 @@
 .gradle
 
 # Ignore Gradle build output directory
-build
 app/output
+
+bin/
+build/
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+*.jar
+*.class
+
+.vscode/
+.code-workspace

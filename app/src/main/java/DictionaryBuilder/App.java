@@ -5,6 +5,7 @@ package DictionaryBuilder;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.util.Scanner;
 
 import util.ContentReader;
 
@@ -14,10 +15,14 @@ public class App {
     }
 
     public static void main(String[] args) {
-        try(ContentReader reader = new ContentReader(new FileInputStream(new File("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt")))){
-            Content.createContentFile("output/", reader.readContent());
-        } catch(Exception e){
-            e.printStackTrace();
-        }
+        // try(ContentReader reader = new ContentReader(new FileInputStream(new File("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt")))){
+        //     Content.createContentFile("output/", reader.readContent());
+        // } catch(Exception e){
+        //     e.printStackTrace();
+        // }
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Content file: ");
+        String path = scanner.nextLine();
+        System.out.println(path);
     }
 }
