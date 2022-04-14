@@ -8,9 +8,6 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import dictionary.Content;
-import dictionary.Word;
-
 public class ContentTest {
 
     @Test
