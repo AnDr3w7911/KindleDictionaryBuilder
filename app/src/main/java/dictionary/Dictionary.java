@@ -26,7 +26,7 @@ public class Dictionary {
         }
 
         public DictionaryBuilder content(String contentPath) throws FileNotFoundException{
-            pages.add(new Content(outputPath, contentPath));
+            pages.add(new ContentPage(outputPath, contentPath));
             return this;
         }
     }

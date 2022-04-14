@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 import dictionary.Word;
 
 public class ContentReader implements Closeable {
-    private BufferedReader reader;
+    private final BufferedReader reader;
 
     public ContentReader(InputStream content) throws FileNotFoundException {
         reader = new BufferedReader(new InputStreamReader(content));
@@ -29,7 +29,7 @@ public class ContentReader implements Closeable {
                 if (tokens.length == 2) {
                     String[] words = tokens[0].split(", ");
                     List<String> inflections = null;
-                    if(words.length > 1){
+                    if (words.length > 1) {
                         inflections = Stream.of(words).skip(1).collect(Collectors.toList());
                     }
                     content.add(new Word(words[0], tokens[1], inflections));
@@ -44,8 +44,6 @@ public class ContentReader implements Closeable {
 
     @Override
     public void close() throws IOException {
-        if (reader != null) {
-            reader.close();
-        }
+        reader.close();
     }
 }
