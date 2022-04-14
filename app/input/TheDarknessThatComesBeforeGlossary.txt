@@ -1,0 +1,78 @@
+Anasûrimbor Kellhus, Kellhus::(Ah-nas-soor-imb-or Kell-huss) a thirty-three-year-old Dûnyain monk
+Drusas Achamian, Drusas, Achamian::(Droo-sass Ah-kay-me-on) a forty-seven-year-old Mandate sorcerer
+Cnaiür::(Nay-yur) a forty-four-year-old Scylvendi barbarian, Chieftain of the Utemot
+Esmenet::(Ez-men-net) a thirty-one-year-old Sumni prostitute
+Serwë::(Sair-way) a nineteen-year-old Nymbricani concubine
+Anasûrimbor Moënghus, Moënghus::(Ah-nas-soor-imb-or Moe-eng-huss) Kellhus’s father
+Skiötha::(Skee-oath-ah) Cnaiür’s deceased father
+
+Dûnyain::A hidden monastic sect whose members have repudiated history and animal appetite in the hope of finding absolute enlightenment through the control of all desire and circumstance. For two thousand years they have bred their members for both motor reflexes and intellectual acuity.
+
+Consult::A cabal of magi and generals that survived the death of the No-God in 2155 and has laboured ever since to bring about his return in the so-called Second Apocalypse. Very few in the Three Seas believe the Consult still exists.
+
+Schools::A collective name given to the various academies of sorcerers. The first Schools, both in the Ancient North and in the Three Seas, arose as a response to the Tusk’s condemnation of sorcery. The Schools are among the oldest institutions in the Three Seas, and they survive, by and large, because of the terror they inspire and their detachment from the secular and religious powers of the Three Seas.
+
+Mandate, Gnostic::Gnostic School founded by Seswatha in 2156 to continue the war against the Consult and to protect the Three Seas from the return of the No-God, Mog-Pharau.
+Nautzera::senior member of the Quorum
+Simas::member of the Quorum and Achamian’s former teacher
+Seswatha::survivor of the Old Wars and ancient founder of the Mandate
+
+Scarlet Spires::Anagogic School that is the most powerful in the Three Seas and has been de facto ruler of High Ainon since 3818.
+Eleäzaras::Grandmaster of the Scarlet Spires
+Iyokus::Eleäzaras’s Master of Spies
+Geshrunni::slave-soldier and momentary Mandate spy
+
+Imperial Saik, Saik::Anagogic School indentured to the Emperor of Nansur.
+Cememketri::Grandmaster of the Imperial Saik
+
+Mysunsai::Self-proclaimed Mercenary School that sells its sorcerous services across the Three Seas.
+Skalateas::mercenary sorcerer
+Inrithi Factions, Inrithi::Synthesizing monotheistic and polytheistic elements, Inrithism, the dominant faith of the Three Seas, is founded on the revelations of Inri Sejenus (c. 2159-2202), the Latter Prophet. The central tenets of Inrithism deal with the immanence of the God in historical events, the unity of the individual deities of the Cults as Aspects of the God as revealed by the Latter Prophet, and the infallibility of the Tusk as scripture.
+
+Thousand Temples::An institution that provides the ecclesiastical framework of Inrithism. Though based in Sumna, the Thousand Temples is omnipresent throughout the Northwestern and Eastern Three Seas.
+Maithanet::Shriah of the Thousand Temples
+Paro Inrau, Paro, Inrau::Shrial Priest and former student of Achamian
+
+Shrial Knights, Shrial::A monastic military order under the direct command of the Shriah, created by Ekyannus III, “the Golden,” in 2511.
+Incheiri Gotian, Incheiri, Gotian::Grandmaster of the Shrial Knights
+Cutias Sarcellus, Cutias, Sarcellus::First Knight-Commander of the Shrial Knights
+
+Conriyans::Conriya is a Ketyai nation of the Eastern Three Seas. Founded after the collapse of the Eastern Ceneian Empire in 3372, it is based around Aöknyssus, the ancient capital of Shir.
+Nersei Proyas, Nersei, Proyas::Prince of Conriya and former student of Achamian
+Krijates Xinemus, Krijates Xinemus::Achamian’s friend and Marshal of Attrempus
+Nersei Calmemunis::leader of the Vulgar Holy War
+
+Nansur::The Nansur Empire is a Ketyai nation of the Western Three Seas and the self-proclaimed inheritor of the Ceneian Empire. At the height of its power, the Nansur Empire extended from Galeoth to Nilnamesh, but it has been much reduced by centuries of warfare against the Fanim of Kian.
+Xerius::Ikurei Xerius III Emperor of Nansur
+Conphas::Ikurei Conphas Exalt-General of Nansur and nephew to the Emperor
+Istriya::Ikurei Istriya Empress of Nansur and mother of the Emperor
+Martemus::General and Aide-de-Camp to Conphas
+Skeaös::the Emperor’s Prime Counsel
+
+Galeoth::Galeoth is a Norsirai nation of the Three Seas, the so-called Middle-North, founded around 3683 by the descendants of refugees from the Old Wars.
+Coithus Saubon::Prince of Galeoth and leader of the Galeoth contingent
+Kussalt::Saubon’s groom
+Coithus Athjeäri::Saubon’s nephew
+
+Tydonni::Ce Tydonn is a Norsirai nation of the Eastern Three Seas. It was founded after the collapse of the Ketyai nation of Cengemis in 3742.
+Hoga Gothyelk, Hoga, Gothyelk::the Earl of Agansanor and leader of the Tydonni contingent
+
+Ainoni::High Ainon is the pre-eminent Ketyai nation of the Eastern Three Seas. It was founded after the collapse of the Eastern Ceneian Empire in 3372 and has been ruled by the Scarlet Spires since the end of the Scholastic Wars in 3818.
+Chepheramunni::King-Regent of High Ainon and leader of the Ainoni contingent
+
+Thunyeri::Thunyerus is a Norsirai nation of the Three Seas. It was founded through the federation of the Thunyeri tribes around 3987, and it only recently converted to Inrithism.
+Skaiyelt::Prince of Thunyerus and leader of the Thunyeri contingent
+Yalgrota::Skaiyelt’s giant bondsman
+
+Fanim::Factions Strictly monotheistic, Fanimry is an upstart faith founded on the revelations of the Prophet Fane (3669-3742) and restricted to the Southwestern Three Seas. The central tenets of Fanimry deal with the singularity and transcendence of the God, the falseness of the Gods (who are considered demons by the Fanim), the repudiation of the Tusk as unholy, and the prohibition of all representations of the God.
+
+Kianene, Kian::Kian is the most powerful Ketyai nation of the Three Seas. Extending from the southern frontier of the Nansur Empire to Nilnamesh, it was founded in the wake of the White Jihad, the holy war waged by the first Fanim against the Nansur Empire from 3743 to 3771.
+Kascamandri::Padirajah of Kian
+Skauras::Sapatishah-Governor of Shigek
+
+Cishaurim::Priest-sorcerers of the Fanim, based in Shimeh. Little is known about the metaphysics of Cishaurim sorcery, or the Psûkhe, as the Cishaurim refer to it, beyond the fact that it cannot be perceived by the Few, and that it is in many ways as formidable as the Anagogic sorcery of the Schools.
+Seökti::Heresiarch of the Cishaurim
+Mallahet::powerful member of the Cishaurim
+
+
+
