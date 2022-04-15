@@ -20,6 +20,6 @@ Word, alternate word1, alternate word2::definition
 After the files are generated use Kindle previewer to create the .mobi file and transfer that to the kindle.
 
 
-# Resources
-[Kindle Documentation](https://s3.amazonaws.com/kindlegen/AmazonKindlePublishingGuidelines.pdf)
-[Create Custom Dictionary](https://jakemccrary.com/blog/2020/11/11/creating-a-custom-kindle-dictionary/)
+### Resources
+*[Kindle Documentation](https://s3.amazonaws.com/kindlegen/AmazonKindlePublishingGuidelines.pdf)
+*[Create Custom Dictionary](https://jakemccrary.com/blog/2020/11/11/creating-a-custom-kindle-dictionary/)
