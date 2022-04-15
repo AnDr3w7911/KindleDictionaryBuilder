@@ -11,7 +11,7 @@ Generate the files required to create a custom Dictionary.
 * content.html
 
 Content (Word's and their definitions) are read in from a text file. The content file contains the word and any alternate version of that word 
-(i.e. Full name with First and Last names being Alternate version) should be in the following format:
+(i.e. Full name with first and last names being alternate version) should be in the following format:
 
 ```
 Word, alternate word1, alternate word2::definition
