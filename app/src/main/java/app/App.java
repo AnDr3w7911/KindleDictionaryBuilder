@@ -3,26 +3,21 @@
  */
 package app;
 
-import java.io.FileNotFoundException;
+import java.io.IOException;
 
 import dictionary.Dictionary.DictionaryBuilder;
 
 public class App {
 
     public static void main(String[] args) {
-        // try(ContentReader reader = new ContentReader(new FileInputStream(new File("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt")))){
-        //     Content.createContentFile("output/", reader.readContent());
-        // } catch(Exception e){
-        //     e.printStackTrace();
-        // }
-        System.out.println("Creating Custom Kindle Dictionary...");
+        
         try {
             DictionaryBuilder builder = new DictionaryBuilder("output/")
                 .cover("The Second Apocalypse", "Andrew Turner")
                 .content("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt")
                 .copyright();
             builder.build();
-        } catch (FileNotFoundException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
