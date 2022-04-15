@@ -9,13 +9,14 @@ import java.nio.file.Path;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 
-public class CoverPageTest {
+public class CopyrightPageTest {
 
     @Test
-    public void createCoverPage(@TempDir Path tempDir) {
-        assertDoesNotThrow(() -> new CoverPage("title", "Me", tempDir.toString() + File.separator).build());
+    public void createPage(@TempDir Path tempDir){
+        assertDoesNotThrow(() -> new CopyrightPage(tempDir.toString() + File.separator).build());
         File[] outputFiles = tempDir.toFile().listFiles();
         assertEquals(1, outputFiles.length);
-        assertEquals(CoverPage.FILE_NAME, outputFiles[0].getName());
+        assertEquals(CopyrightPage.FILE_NAME, outputFiles[0].getName());
     }
+    
 }

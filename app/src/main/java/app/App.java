@@ -19,7 +19,8 @@ public class App {
         try {
             DictionaryBuilder builder = new DictionaryBuilder("output/")
                 .cover("The Second Apocalypse", "Andrew Turner")
-                .content("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt");
+                .content("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt")
+                .copyright();
             builder.build();
         } catch (FileNotFoundException e) {
             e.printStackTrace();

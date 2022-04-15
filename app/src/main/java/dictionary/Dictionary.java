@@ -29,6 +29,11 @@ public class Dictionary {
             pages.add(new ContentPage(outputPath, contentPath));
             return this;
         }
+
+        public DictionaryBuilder copyright(){
+            pages.add(new CopyrightPage(outputPath));
+            return this;
+        }
     }
 
     private List<DictionaryPage> pages;
