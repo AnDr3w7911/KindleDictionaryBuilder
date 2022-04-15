@@ -7,6 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
+import java.nio.charset.StandardCharsets;
 import java.util.List;
 
 import util.ContentReader;
@@ -36,7 +37,7 @@ public class ContentPage extends DictionaryPage {
         
         try (BufferedReader reader = new BufferedReader(
                 new InputStreamReader(ContentPage.class.getClassLoader().getResourceAsStream("contentTemplate.html")));
-                PrintWriter writer = new PrintWriter(getOutFile())) {
+                PrintWriter writer = new PrintWriter(getOutFile(), StandardCharsets.UTF_8)) {
             while (reader.ready()) {
                 String line = reader.readLine();
                 if (WORD_TAG.equals(line.trim())) {

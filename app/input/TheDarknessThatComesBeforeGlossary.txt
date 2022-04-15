@@ -39,8 +39,8 @@ Cutias Sarcellus, Cutias, Sarcellus::First Knight-Commander of the Shrial Knight
 
 Conriyans::Conriya is a Ketyai nation of the Eastern Three Seas. Founded after the collapse of the Eastern Ceneian Empire in 3372, it is based around Aöknyssus, the ancient capital of Shir.
 Nersei Proyas, Nersei, Proyas::Prince of Conriya and former student of Achamian
-Krijates Xinemus, Krijates Xinemus::Achamian’s friend and Marshal of Attrempus
-Nersei Calmemunis::leader of the Vulgar Holy War
+Krijates Xinemus, Krijates, Xinemus::Achamian’s friend and Marshal of Attrempus
+Nersei Calmemunis, Nersei, Calmemunis::leader of the Vulgar Holy War
 
 Nansur::The Nansur Empire is a Ketyai nation of the Western Three Seas and the self-proclaimed inheritor of the Ceneian Empire. At the height of its power, the Nansur Empire extended from Galeoth to Nilnamesh, but it has been much reduced by centuries of warfare against the Fanim of Kian.
 Xerius::Ikurei Xerius III Emperor of Nansur
@@ -50,9 +50,9 @@ Martemus::General and Aide-de-Camp to Conphas
 Skeaös::the Emperor’s Prime Counsel
 
 Galeoth::Galeoth is a Norsirai nation of the Three Seas, the so-called Middle-North, founded around 3683 by the descendants of refugees from the Old Wars.
-Coithus Saubon::Prince of Galeoth and leader of the Galeoth contingent
+Coithus Saubon, Saubon::Prince of Galeoth and leader of the Galeoth contingent
 Kussalt::Saubon’s groom
-Coithus Athjeäri::Saubon’s nephew
+Coithus Athjeäri, Athjeäri::Saubon’s nephew
 
 Tydonni::Ce Tydonn is a Norsirai nation of the Eastern Three Seas. It was founded after the collapse of the Ketyai nation of Cengemis in 3742.
 Hoga Gothyelk, Hoga, Gothyelk::the Earl of Agansanor and leader of the Tydonni contingent
