@@ -2,7 +2,6 @@ package util;
 
 import java.io.BufferedReader;
 import java.io.Closeable;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -17,7 +16,7 @@ import dictionary.Word;
 public class ContentReader implements Closeable {
     private final BufferedReader reader;
 
-    public ContentReader(InputStream content) throws FileNotFoundException {
+    public ContentReader(InputStream content) {
         reader = new BufferedReader(new InputStreamReader(content, StandardCharsets.UTF_8));
     }
 
