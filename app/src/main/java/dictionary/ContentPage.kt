@@ -3,7 +3,8 @@ package dictionary
 import util.ContentReader
 import java.io.*
 
-class ContentPage @Throws(FileNotFoundException::class) constructor(outputPath: String, contentPath: String) : DictionaryPage(outputPath + FILE_NAME) {
+class ContentPage @Throws(FileNotFoundException::class) constructor(outputPath: String, contentPath: String) :
+    DictionaryPage(outputPath + FILE_NAME) {
     private val contentFile: File
 
     init {
@@ -15,26 +16,30 @@ class ContentPage @Throws(FileNotFoundException::class) constructor(outputPath: 
 
     @Throws(IOException::class)
     private fun readWords(): List<Word> {
-        ContentReader(FileInputStream(contentFile)).use { reader -> return reader.readContent() }
+        ContentReader(contentFile.inputStream()).use { reader -> return reader.readContent().asSequence().sorted().toList() }
     }
 
     @Throws(IOException::class)
     override fun build() {
         val stream = this::class.java.classLoader.getResourceAsStream("contentTemplate.html")
         stream?.bufferedReader()?.use { reader ->
-            outFile.printWriter().use { writer ->
-                while (reader.ready()) {
-                    val line = reader.readLine()
-                    if (WORD_TAG == line.trim()) {
-                        writer.println()
-                        for (word in readWords()) {
-                            writer.println(word.block)
-                            writer.println()
+            {
+                outFile.printWriter().use { writer ->
+                    {
+                        while (reader.ready()) {
+                            val line = reader.readLine()
+                            if (WORD_TAG == line.trim()) {
+                                writer.println()
+                                for (word in readWords()) {
+                                    writer.println(word.block)
+                                    writer.println()
+                                }
+                            } else {
+                                writer.println(line)
+                            }
+                            writer.flush()
                         }
-                    } else {
-                        writer.println(line)
                     }
-                    writer.flush()
                 }
             }
         }
