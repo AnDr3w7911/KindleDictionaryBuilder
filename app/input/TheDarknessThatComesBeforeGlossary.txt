@@ -1,19 +1,26 @@
 Anasûrimbor Kellhus, Kellhus::(Ah-nas-soor-imb-or Kell-huss) a thirty-three-year-old Dûnyain monk
 Drusas Achamian, Drusas, Achamian::(Droo-sass Ah-kay-me-on) a forty-seven-year-old Mandate sorcerer
+Coithus Athjeäri, Coithus, Athjeäri::Saubon’s nephew
 Cnaiür::(Nay-yur) a forty-four-year-old Scylvendi barbarian, Chieftain of the Utemot
+Bannut::Cnaiür’s uncle
 Esmenet::(Ez-men-net) a thirty-one-year-old Sumni prostitute
 Serwë::(Sair-way) a nineteen-year-old Nymbricani concubine
 Anasûrimbor Moënghus, Moënghus::(Ah-nas-soor-imb-or Moe-eng-huss) Kellhus’s father
 Skiötha::(Skee-oath-ah) Cnaiür’s deceased father
 
+Xunnurit::Scylvendi King-of-Tribes at the Battle of Kiyuth
+Yursalka::Utemot tribesman
+
 Dûnyain::A hidden monastic sect whose members have repudiated history and animal appetite in the hope of finding absolute enlightenment through the control of all desire and circumstance. For two thousand years they have bred their members for both motor reflexes and intellectual acuity.
 
 Consult::A cabal of magi and generals that survived the death of the No-God in 2155 and has laboured ever since to bring about his return in the so-called Second Apocalypse. Very few in the Three Seas believe the Consult still exists.
 
+Scylvendi::The ancient nomadic peoples of the Jiünati Steppe. They are both feared and admired for their prowess in war.
+
 Schools::A collective name given to the various academies of sorcerers. The first Schools, both in the Ancient North and in the Three Seas, arose as a response to the Tusk’s condemnation of sorcery. The Schools are among the oldest institutions in the Three Seas, and they survive, by and large, because of the terror they inspire and their detachment from the secular and religious powers of the Three Seas.
 
 Mandate, Gnostic::Gnostic School founded by Seswatha in 2156 to continue the war against the Consult and to protect the Three Seas from the return of the No-God, Mog-Pharau.
-Nautzera::senior member of the Quorum
+Nautzera::senior member of the Mandate Quorum
 Simas::member of the Quorum and Achamian’s former teacher
 Seswatha::survivor of the Old Wars and ancient founder of the Mandate
 
@@ -40,7 +47,7 @@ Cutias Sarcellus, Cutias, Sarcellus::First Knight-Commander of the Shrial Knight
 Conriyans::Conriya is a Ketyai nation of the Eastern Three Seas. Founded after the collapse of the Eastern Ceneian Empire in 3372, it is based around Aöknyssus, the ancient capital of Shir.
 Nersei Proyas, Nersei, Proyas::Prince of Conriya and former student of Achamian
 Krijates Xinemus, Krijates, Xinemus::Achamian’s friend and Marshal of Attrempus
-Nersei Calmemunis, Nersei, Calmemunis::leader of the Vulgar Holy War
+Nersei Calmemunis, Nersei, Calmemunis::Proyas’s cousin and Conriyan leader of the Vulgar Holy War
 
 Nansur::The Nansur Empire is a Ketyai nation of the Western Three Seas and the self-proclaimed inheritor of the Ceneian Empire. At the height of its power, the Nansur Empire extended from Galeoth to Nilnamesh, but it has been much reduced by centuries of warfare against the Fanim of Kian.
 Xerius::Ikurei Xerius III Emperor of Nansur
@@ -68,11 +75,19 @@ Fanim::Factions Strictly monotheistic, Fanimry is an upstart faith founded on th
 
 Kianene, Kian::Kian is the most powerful Ketyai nation of the Three Seas. Extending from the southern frontier of the Nansur Empire to Nilnamesh, it was founded in the wake of the White Jihad, the holy war waged by the first Fanim against the Nansur Empire from 3743 to 3771.
 Kascamandri::Padirajah of Kian
-Skauras::Sapatishah-Governor of Shigek
+Skauras::Kianene Sapatishah-Governor of Shigek
 
 Cishaurim::Priest-sorcerers of the Fanim, based in Shimeh. Little is known about the metaphysics of Cishaurim sorcery, or the Psûkhe, as the Cishaurim refer to it, beyond the fact that it cannot be perceived by the Few, and that it is in many ways as formidable as the Anagogic sorcery of the Schools.
 Seökti::Heresiarch of the Cishaurim
 Mallahet::powerful member of the Cishaurim
 
 
+MEN::Until the Breaking of the Gates and the migration of the Four Nations from Eänna, the Men of Eärwa, called the Emwama in The Chronicle of the Tusk, were enslaved by the Nonmen and spoke debased versions of their masters’ tongues. No trace of these languages remain. Nor does any trace of their original, pre-bondage language remain. The great Nonman history, the Isûphiryas, or the “Great Pit of Years,” suggests the Emwama originally spoke the same tongue as their kin across the Great Kayarsus. This has led many to believe that Thoti-Eännorean is indeed the primeval language of all men.
+NONMEN::(CÛNUROI) Without doubt, the Nonmen, or Cûnuroi, tongues are among the oldest in Eärwa. Some Aujic inscriptions predate the first extant example of Thoti-Eännorean, The Chronicle of the Tusk, by more than five thousand years. Auja-Gilcûnni, which has yet to be deciphered, is far older still.
+Sranc::In the Isûphiryas, the Sranc are first referred to as the Anyasiri, or the “Tongueless Howlers.” Through the first books of the Cûno-Inchoroi Wars, the Nonmen chroniclers seem reluctant to attribute the power of speech to the Sranc. By the time the first Nonmen scholars studied and recorded their speech, it had fractured into innumerable dialects. AGHURZOI—Original “Cut Tongue” language of the Sranc
+AGHURZOI::Original “Cut Tongue” language of the Sranc
+INCHOROI::The Inchoroi tongue, which the Nonmen call Cincûl’hisa, or the “Gasp of Many Reeds,” has defeated all attempts to decipher it. According to the Isûphiryas, communication between the Cûnuroi and the Inchoroi was impossible until the latter “birthed mouths” and began speaking Cûnuroi tongues.
+CINCÛLIC::Undeciphered tongue of the Inchoroi
 
+
+Jnan::an informal code of manner and speech understood by many to be a "war of word and sentiment".
