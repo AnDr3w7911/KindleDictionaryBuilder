@@ -1,14 +1,11 @@
 package dictionary
 
-class Word(val word: String, val definition: String) {
-    val inflections: MutableList<String> = ArrayList()
+class Word(val word: String, val definition: String, val inflections: List<String> = ArrayList()) {
 
-    constructor(word: String, definition: String, inflections: List<String>) : this(word, definition) {
-        this.inflections.addAll(inflections)
-    }
 
-    val wordHtml: String
-        get() {
+    val block: String
+        get() = String.format(CONTENT_BLOCK, createHtmlWord(), definition)
+    fun createHtmlWord() : String {
             val wordBuilder = StringBuilder()
             wordBuilder.append(word)
             if (inflections.isNotEmpty()) {
@@ -21,10 +18,6 @@ class Word(val word: String, val definition: String) {
             }
             return wordBuilder.toString()
         }
-
-    val block: String
-        get() = String.format(CONTENT_BLOCK, wordHtml, definition)
-
     companion object {
         const val CONTENT_BLOCK = ("\t\t<idx:entry name=\"default\" scriptable=\"yes\" spell=\"yes\">\n\t\t\t"
                 + "<h5><dt><idx:orth>%s</idx:orth></dt></h5>\n\t\t\t<dd>%s</dd>\n\t\t</idx:entry>\n\t\t<hr/>")

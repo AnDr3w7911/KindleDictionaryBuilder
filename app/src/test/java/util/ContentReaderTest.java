@@ -21,7 +21,7 @@ public class ContentReaderTest {
             assertEquals("definition1", content.get(0).getDefinition());
             assertEquals(1, content.get(0).getInflections().size());
             assertEquals("word 1", content.get(0).getInflections().get(0));
-            assertEquals("Word2", content.get(1).getWordHtml());
+            assertEquals("Word2", content.get(1).createHtmlWord());
             assertEquals("definition2", content.get(1).getDefinition());
         }
     }
