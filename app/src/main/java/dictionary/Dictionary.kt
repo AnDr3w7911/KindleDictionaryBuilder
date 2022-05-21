@@ -3,9 +3,19 @@ package dictionary
 import java.io.FileNotFoundException
 import java.io.IOException
 
+/**
+ *  Kindle Custom Dictionary pages
+ */
 class Dictionary private constructor(builder: DictionaryBuilder) {
+    /**
+     * Builder to create the pages of a custom kindle dictionary
+     * @param outputPath path to output the created dictionary pages
+     */
     class DictionaryBuilder(private val outputPath: String) {
-        val pages = arrayListOf<DictionaryPage>()
+        private val _pages = arrayListOf<DictionaryPage>()
+
+        val pages: List<DictionaryPage>
+            get() = _pages
 
         @Throws(IOException::class)
         fun build(): Dictionary {
@@ -13,34 +23,33 @@ class Dictionary private constructor(builder: DictionaryBuilder) {
         }
 
         fun cover(title: String, createdBy: String): DictionaryBuilder {
-            pages.add(CoverPage(title, createdBy, outputPath))
+            _pages.add(CoverPage(title, createdBy, outputPath))
             return this
         }
 
         @Throws(FileNotFoundException::class)
         fun content(contentPath: String): DictionaryBuilder {
-            pages.add(ContentPage(outputPath, contentPath))
+            _pages.add(ContentPage(outputPath, contentPath))
             return this
         }
 
         fun copyright(): DictionaryBuilder {
-            pages.add(CopyrightPage(outputPath))
+            _pages.add(CopyrightPage(outputPath))
             return this
         }
     }
 
-    private val pages: List<DictionaryPage>
+    private val pages = builder.pages
 
     init {
         println("Creating Custom Kindle Dictionary...")
-        pages = builder.pages
         if (pages.isNotEmpty()) {
-            for (page in pages) {
-                println("Creating: " + page.outFile.name)
-                page.build()
+            pages.forEach {
+                println("Creating: ${it.outFile.name}")
+                it.build()
             }
             println(
-                "Dictionary files created: " + pages[0].outFile.parentFile.absolutePath
+                "Dictionary files created: ${pages[0].outFile.parentFile.absolutePath}"
             )
         } else {
             println("No Files created.")

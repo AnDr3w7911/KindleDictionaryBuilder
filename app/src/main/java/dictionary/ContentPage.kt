@@ -3,6 +3,9 @@ package dictionary
 import util.ContentReader
 import java.io.*
 
+/**
+ * The page that contains all the words and definitions
+ */
 class ContentPage @Throws(FileNotFoundException::class) constructor(outputPath: String, contentPath: String) :
     DictionaryPage(outputPath + FILE_NAME) {
     private val contentFile: File
@@ -16,7 +19,7 @@ class ContentPage @Throws(FileNotFoundException::class) constructor(outputPath: 
 
     @Throws(IOException::class)
     private fun readWords(): List<Word> {
-        ContentReader(contentFile.inputStream()).use { reader -> return reader.readContent().asSequence().sorted().toList() }
+        ContentReader(contentFile.inputStream()).use { reader -> return reader.readContent().sorted() }
     }
 
     @Throws(IOException::class)

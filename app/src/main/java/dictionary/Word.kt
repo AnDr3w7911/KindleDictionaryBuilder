@@ -1,5 +1,8 @@
 package dictionary
 
+/**
+ * A Word with its inflections and definition
+ */
 class Word(val word: String, val definition: String, val inflections: List<String> = ArrayList()) : Comparable<Word> {
 
 

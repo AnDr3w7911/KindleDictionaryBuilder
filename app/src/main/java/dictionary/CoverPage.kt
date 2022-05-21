@@ -3,6 +3,9 @@ package dictionary
 import java.io.IOException
 import java.io.PrintWriter
 
+/**
+ * Cover page of the dictionary.
+ */
 class CoverPage(private val title: String, private val createdBy: String, outputPath: String) :
     DictionaryPage(outputPath + FILE_NAME) {
     @Throws(IOException::class)
