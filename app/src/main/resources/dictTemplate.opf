@@ -1,8 +1,12 @@
 <?xml version="1.0"?>
 <package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
   <metadata>
-    <dc:title>The Second Apocalypse Dictionary</dc:title>
-    <dc:creator opf:role="aut">Andrew Turner</dc:creator>
+    <dc:title>
+      [PUT THE WORDS HERE]
+    </dc:title>
+    <dc:creator opf:role="aut">
+      [PUT THE WORDS HERE]
+    </dc:creator>
     <dc:language>en-us</dc:language>
     <meta name="cover" content="my-cover-image" />
     <x-metadata>
