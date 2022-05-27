@@ -16,7 +16,6 @@ plugins {
     java
     application
     jacoco
-    id("org.openjfx.javafxplugin") version "0.0.12"
     kotlin("jvm") version "1.7.0-Beta"
 }
 
@@ -26,11 +25,8 @@ buildscript {
             setUrl("https://plugins.gradle.org/m2/")
         }
     }
-    dependencies {
-        classpath("org.openjfx:javafx-plugin:0.0.12")
-    }
+
 }
-apply(plugin = "org.openjfx.javafxplugin")
 
 repositories {
     // Use Maven Central for resolving dependencies.
@@ -44,12 +40,6 @@ dependencies {
     testImplementation("org.mockito:mockito-core:3.+")
     implementation(kotlin("stdlib-jdk8"))
 }
-
-javafx {
-    version = "18"
-    modules("javafx.controls", "javafx.fxml")
-}
-
 
 testing {
     suites {
