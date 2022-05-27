@@ -24,25 +24,20 @@ class ContentPage @Throws(FileNotFoundException::class) constructor(outputPath: 
 
     @Throws(IOException::class)
     override fun build() {
-        val stream = this::class.java.classLoader.getResourceAsStream("contentTemplate.html")
-        stream?.bufferedReader()?.use { reader ->
-            {
-                outFile.printWriter().use { writer ->
-                    {
-                        while (reader.ready()) {
-                            val line = reader.readLine()
-                            if (WORD_TAG == line.trim()) {
-                                writer.println()
-                                for (word in readWords()) {
-                                    writer.println(word.block)
-                                    writer.println()
-                                }
-                            } else {
-                                writer.println(line)
-                            }
-                            writer.flush()
+        val stream = ContentPage::class.java.classLoader.getResourceAsStream("contentTemplate.html")
+        outFile.printWriter().use { writer ->
+            stream!!.bufferedReader(Charsets.UTF_8).useLines {
+                it.forEach { line ->
+                    if (WORD_TAG == line.trim()) {
+                        writer.println()
+                        for (word in readWords()) {
+                            writer.println(word.block)
+                            writer.println()
                         }
+                    } else {
+                        writer.println(line)
                     }
+                    writer.flush()
                 }
             }
         }
