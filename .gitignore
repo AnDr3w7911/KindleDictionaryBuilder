@@ -7,9 +7,9 @@ app/output
 output/
 
 bin/
-build/
+[Bb]uild/
 app/bin
-app/build
+app/[Bb]uild
 .gradletasknamecache
 gradle-app.setting
 !gradle-wrapper.jar
