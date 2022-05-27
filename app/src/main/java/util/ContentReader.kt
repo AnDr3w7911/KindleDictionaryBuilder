@@ -3,6 +3,9 @@ package util
 import dictionary.Word
 import java.io.*
 
+/**
+ * Reader to read the Words with their inflections and definitions from a file
+ */
 class ContentReader(content: InputStream) : Closeable {
     private val reader: BufferedReader
 

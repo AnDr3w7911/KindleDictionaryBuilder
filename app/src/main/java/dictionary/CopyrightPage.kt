@@ -3,6 +3,9 @@ package dictionary
 import java.io.IOException
 import java.io.PrintWriter
 
+/**
+ * Very basic copy right page. Only there because Kindle requires it to be there.
+ */
 class CopyrightPage(outputPath: String) : DictionaryPage(outputPath + FILE_NAME) {
     @Throws(IOException::class)
     override fun build() {

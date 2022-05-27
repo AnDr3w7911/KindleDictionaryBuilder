@@ -1,6 +1,9 @@
 package dictionary
 
-class Word(val word: String, val definition: String, val inflections: List<String> = ArrayList()) {
+/**
+ * A Word with its inflections and definition
+ */
+class Word(val word: String, val definition: String, val inflections: List<String> = ArrayList()) : Comparable<Word> {
 
 
     val block: String
@@ -22,5 +25,9 @@ class Word(val word: String, val definition: String, val inflections: List<Strin
         const val CONTENT_BLOCK = ("\t\t<idx:entry name=\"default\" scriptable=\"yes\" spell=\"yes\">\n\t\t\t"
                 + "<h5><dt><idx:orth>%s</idx:orth></dt></h5>\n\t\t\t<dd>%s</dd>\n\t\t</idx:entry>\n\t\t<hr/>")
         private const val INFLECTION = "<idx:iform value=\"%s\" /> "
+    }
+
+    override fun compareTo(other: Word): Int {
+        return word.compareTo(other.word, true)
     }
 }
