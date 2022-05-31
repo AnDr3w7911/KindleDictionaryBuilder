@@ -6,7 +6,7 @@ import java.io.*
 /**
  * Reader to read the Words with their inflections and definitions from a file
  */
-class ContentReader(content: InputStream) : Closeable {
+class ContentReader(content: InputStream, private val delimiter: String = "::", private val inflectionDelimiter: String = ",") : Closeable {
     private val reader: BufferedReader
 
     init {
@@ -19,9 +19,9 @@ class ContentReader(content: InputStream) : Closeable {
         while (reader.ready()) {
             val line = reader.readLine()
             if (line.isNotBlank()) {
-                val tokens = line.split("::")
+                val tokens = line.split(delimiter)
                 if (tokens.size == 2) {
-                    val words = tokens[0].split(", ")
+                    val words = tokens[0].split(inflectionDelimiter)
                     val inflections = words.asSequence().drop(1).toList()
                     content.add(Word(words[0], tokens[1], inflections))
                 } else {

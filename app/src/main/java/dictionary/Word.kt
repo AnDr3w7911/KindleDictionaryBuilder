@@ -15,7 +15,7 @@ class Word(val word: String, val definition: String, val inflections: List<Strin
                 wordBuilder.append("\n\t\t\t\t<idx:infl>")
                 for (inflection in inflections) {
                     wordBuilder.append("\n\t\t\t\t\t")
-                    wordBuilder.append(String.format(INFLECTION, inflection))
+                    wordBuilder.append(String.format(INFLECTION, inflection.trim()))
                 }
                 wordBuilder.append("\n\t\t\t\t</idx:infl>\n\t\t\t")
             }

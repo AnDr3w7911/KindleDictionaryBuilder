@@ -12,7 +12,7 @@ object App {
         try {
             val builder = DictionaryBuilder("output/")
                 .cover("The Second Apocalypse", "Andrew Turner")
-                .content("R:/Development/DictionaryBuilder/app/input/TheDarknessThatComesBeforeGlossary.txt")
+                .content("R:/Development/DictionaryBuilder/app/input/encyclopedicGlossary.txt")
                 .copyright()
             builder.build()
         } catch (e: IOException) {
