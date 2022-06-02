@@ -43,7 +43,7 @@ ancestor scroll::A scroll kept by most pious Inrithi, bearing the names of all t
 Ancient North::The name given to the Norsirai civilization destroyed in the Apocalypse.
 Ancilline Gate::One of the so-called Lesser Gates of Momemn, located to the immediate south of the Girgallic Gate.
 Andiamine Heights::The primary residence and principal administrative seat of Nansur Emperors, located on the seaward walls of Momemn.
-Anfirig, Thagawain::(4057- )—The Galeoth Earl of Gesindal.
+Thagawain Anfirig, Anfirig, Thagawain::(4057- )—The Galeoth Earl of Gesindal.
 Angeshraël::(?-?)—The most famed Old Prophet of the Tusk, responsible for leading the Five Tribes of Men into Eärwa. Also known as the Burnt Prophet for bowing his face into his fire after confronting Husyelt at the foot of Mount Eshki. His wife was Esmenet.
 Angka::The ancient Norsirai name for Zeüm.
 animas::The “moving force” of all existence, typically analogized as the “breath of God.” Much ink has been spilt over the question of the relation between animas, which is primarily a theological concept, and the sorcerous concept of “onta.” Most scholars are of the opinion that the latter is simply a secular version of the former.
@@ -53,15 +53,15 @@ Ankharlus::A famed Kûniüric commentator and high priest of Gilgaöl.
 Ankirioth::A province of south central Conriya.
 Ankmuri::The lost language of ancient Angka.
 Ankulakai::The mountain on the southern limit of the Demua that cradles the city of Atrithau.
-Anmergal, Skinede::(4078-4112)—A Tydonni thane, slain at the Battle of Tertae Fields.
+Skinede Anmergal, Anmergal, Skinede::(4078-4112)—A Tydonni thane, slain at the Battle of Tertae Fields.
 Annals of Cenei::—The classic treatise of Casidas, covering the history of Cenei and the Ceneian Empire from the Imperial City’s legendary foundation in 809 to the time of Casidas’s death in 3142.
 Annand::A province of north central Conriya, known primarily for its silver and iron mines. “All the silver in Annand” is a common Three Seas expression, meaning “pricelessness.”
 Anochirwa::“Horns Reaching” (Kûniüric) An early mannish name for Golgotterath.
 Anphairas, Ikurei Anphairas::See Ikurei Anphairas I.
 Anplei::The second-largest city in Conriya after Aöknyssus.
 anpoi::A traditional drink throughout the Three Seas, made of fermented peach nectar.
-Ansacer ab Salajka::(4072- )—The Sapatishah-Governor of Gedea. The Black Gazelle is his totem.
-Ansansius, Teres::(c. 2300-2351)—The most famed theologian of the early Thousand Temples, whose The City of Men, The Limping Pilgrim, and Five Letters to All are revered by Shrial scholars.
+Ansacer ab Salajka, Ansacer, Salajka::(4072- )—The Sapatishah-Governor of Gedea. The Black Gazelle is his totem.
+Teres Ansansius, Ansansius, Teres::(c. 2300-2351)—The most famed theologian of the early Thousand Temples, whose The City of Men, The Limping Pilgrim, and Five Letters to All are revered by Shrial scholars.
 Anserca::The southernmost province of the Nansur Empire.
 Antanamera::A province of High Ainon, located on the highland frontier of Jekk.
 Anwurat::A large Kianene fortress to the south of the Sempis Delta, constructed in 3905.
@@ -78,7 +78,7 @@ Arweal::(4077-4111)—One of the Nascenti, formerly a client thane of Earl Werij
 Ascension::The direct passage of Inri Sejenus to the Outside as described in “The Book of Days” in The Tractate. According to Inrithi tradition, Sejenus ascended from the Juterum, or the Sacred Heights, in Shimeh, though The Tractate seems to suggest that Kyudea and not Shimeh was the location. The First Temple was purportedly raised on the very location.
 Asgilioch::“The Gate of Asga” (Kyranean from Kemkaric geloch) The great Nansur fortress, dating back to Far Antiquity, guarding the so-called Southron Gates in the Unaras Spur. Perhaps no Three Seas fortress can claim such a storied past (which includes, most recently, stopping no fewer than three Fanim invasions). Over the years the Nansur have coined many epithets for the famed stronghold, among them Hubara, or “the Breakers.”
 Aspect-Emperor::The title taken by Triamis the Great in the twenty-third year of his rule (when the Shriah, Ekyannus III, formally institutionalized the so-called Emperor Cult) and adopted by all his successors.
-Athjeäri, Coithus, Coithus Athjeäri::(4089- )—The Earl of the Galeoth region of Gaenri, and nephew to Coithus Saubon.
+Coithus Athjeäri, Athjeäri, Coithus::(4089- )—The Earl of the Galeoth region of Gaenri, and nephew to Coithus Saubon.
 Atkondo-Atyoi::The language group of the Satyothi pastoralists of the Atkondras Mountains and surrounding regions.
 Atkondras Mountains, Atkondras::Perhaps the greatest range west of the Kayarsus, running from the Sea of Jorua to the Great Ocean, and effectively sealing Zeüm from the rest of Eärwa.
 Atrithau::The ancient administrative and commercial capital of what was once Eämnor, and one of two Norsirai cities to have survived the Apocalypse. Atrithau is peculiar in that it is built upon what is called “anarcane ground,” which is to say, ground that renders sorcery impotent, found at the foot of Mount Ankulakai. It was originally founded c. 570 as the fortress Ara-Etrith (“New Etrith”) by the famed Umeri God-King Carû-Ongonean.
@@ -100,7 +100,7 @@ Bajeda, Straits of Bajeda::The straits separating the southwestern tip of Nron f
 Balait urs Kututha, Balait, Kututha::(4072-4110)—A Scylvendi warrior of the Utemot tribe, and Cnaiür urs Skiötha’s brother-in-law.
 Bannut urs Hannut, Bannut, Hannut::(4059-4110)—A Scylvendi warrior of the Utemot tribe, and Cnaiür urs Skiötha’s uncle.
 Bardic Priest::In the traditional folk religions of the Ancient North, a type of wandering priest who earned his living reciting scriptural lays and performing priestly functions for various gods.
-Barisullas, Nrezza, Nrezza Barisullas::(4053- ) The King of Cironj, at once admired and maligned throughout the Three Seas for his mercantile ingenuity. He is notorious for surviving and managing to reverse Shrial Censure not once but three times.
+Nrezza Barisullas, Barisullas, Nrezza::(4053- ) The King of Cironj, at once admired and maligned throughout the Three Seas for his mercantile ingenuity. He is notorious for surviving and managing to reverse Shrial Censure not once but three times.
 Batathent::A ruined fortress-temple dating back to pre-classical Kyraneas, and destroyed by the Scylvendi shortly after the fall of Cenei in 3351.
 Battle-Celebrant::An honour bestowed by the Gilgallic Priesthood on those most responsible for victory in battle.
 Battlemaster::Among the Inrithi, the traditional rank assigned to those commanding coalitions.
@@ -123,7 +123,7 @@ benjuka::A subtle and ancient game of strategy played by caste-nobility througho
 Betmulla Mountains, Betmulla::A minor mountain range forming the southwestern frontier of both Xerash and Amoteu.
 Biaxi, House Biaxi::One of the Houses of the Congregate, and traditional rival to House Ikurei.
 blood-of-the-onta::A common term for what Zarathinius called the “ink” of the Mark.
-Bogras, Praxum Bogras::(4059-4111)—The general of the Selial Column, slain at Anwurat.
+Praxum Bogras, Bogras, Praxum::(4059-4111)—The general of the Selial Column, slain at Anwurat.
 Bokae::An old Ceneian fort on the western frontier of Enathpaneah.
 Boksarias, Pirras Boksarias::(2395-2437)—The Ceneian Emperor who standardized trading protocols within the empire and established a thriving system of markets in its major cities. Book of Circles and Spirals, The—The magnum opus of Sorainas, providing an entertaining blend of philosophical commentary and religious aphorism.
 Book of Devices::An oft-revised Nansur military manual depicting the banner devices of their ancestral foes.
@@ -134,7 +134,7 @@ Bukris::The God of famine. As one of the so-called Punitive Gods, who command sa
 Burulan::(4084- )—One of Esmenet’s Kianene body-slaves.
 Byantas::A near antique writer of the Ceneian Empire.
 Calasthenes::(4055-4111)—A sorcerer of rank in the Scarlet Spires, slain by a Chorae at Anwurat.
-Calmemunis, Nersei Calmemunis::(4069-4110)—The Palatine of the Conriyan province of Kanampurea, and nominal leader of the Vulgar Holy War.
+Nersei Calmemunis, Calmemunis::(4069-4110)—The Palatine of the Conriyan province of Kanampurea, and nominal leader of the Vulgar Holy War.
 Cants::The name given to offensive sorcerous incantations. See sorcery.
 Cants of Calling::The family of incantations that enable communications over distance. Though the metaphysics of these Cants is only loosely understood, all long-distance Cants of Calling seem to turn on the so-called Here Hypothesis. One can call only to slumbering souls (because they remain open to the Outside) and only to those residing someplace where the Caller has physically been. The idea is that the “Here” of the Caller can only reach a “There,” or other location, that has been a “Here” sometime in the past. The degree of similarity between Anagogic and Gnostic Cants of Calling has led many to suspect that they hold the key to unravelling the Gnosis.
 Cants of Compulsion::The family of incantations that control the movements of an individual’s soul. Typically these include the socalled Cants of Torment, though not always. An insidious aspect of these Cants is that their subject often has no way of distinguishing sorcerously compelled thoughts from his own thoughts. This has spawned a whole literature on the very notion of “will.” If the compelled soul feels every bit as uncompelled as the free soul, then how can anyone truly know himself to be free?
@@ -153,7 +153,7 @@ caste-priest, priest::A term for the nahat, or the hereditary priest caste.
 castes::Inherited social statuses. Though weaker in the so-called Middle-North, the Inrithi caste system is one of the central institutions of Three Seas society. In a technical sense, there are almost as many castes as there are occupations, but in practice they fall into roughly four different groups: the suthenti or labouring castes, the momurai or transactional castes, the nahat or priestly castes, and the kjineta or warrior castes. Elaborate protocols supposedly govern all interactions within and between castes to ensure the observances of various privileges and obligations, as well as to minimize ritual pollution, but in practical terms they are rarely adhered to unless in the pursuit of advantage.
 caünnu::The Scylvendi name for the hot southwestern winds that cross the Jiünati Steppe during the height of summer.
 Celestial Aphorisms::One of Memgowa’s most celebrated texts.
-Celmomas II, Anasûrimbor Celmomas II::(2089-2146)—The implacable foe of Golgotterath in the early days of the Apocalypse, and last of the Kûniüric High Kings. SeeApocalypse.
+Anasûrimbor Celmomas II, Celmomas II::(2089-2146)—The implacable foe of Golgotterath in the early days of the Apocalypse, and last of the Kûniüric High Kings. SeeApocalypse.
 Celmomian Prophecy::The dying words of Anasûrimbor Celmomas II to Seswatha on the Fields of Eleneöt in 2146 to the effect that an Anasûrimbor would return at “the end of the world.” Given that the prevention of the so-called Second Apocalypse is the Mandate’s entire reason for existence, it is perhaps no surprise that most Mandate scholars think the Celmomian Prophecy authentic. Few others in the Three Seas credit their claims, however.
 Cememketri::(4046- )—The Grandmaster of the Imperial Saik.
 Cenei::A city of the Kyranae Plain that arose from the Age of Warring Cities to conquer the entire Three Seas. Cenei was destroyed by the Scylvendi under Horiötha in 3351.
@@ -163,12 +163,12 @@ Cengemis::The province that once marked the northern limit of the Eastern Ceneia
 Cepalor::A region of temperate, semi-forested plains extending east of the Hethantas from the Nansur frontier to the southwestern marches of Galeoth. Since the fall of Kyraneas, Cepalor has been inhabited by Norsirai pastoralists known as the Cepalorae, who have long been tributaries of the Nansurium.
 Cepaloran::The language group of Norsirai pastoralists of the Cepaloran Plains.
 Cerish Sea, Cerish::The largest of Eärwa’s inland seas.
-Cerjulla, Sheorog Cerjulla::(4069-4111)—The Tydonni Earl of Warnute, claimed by disease at Caraskand.
+Sheorog Cerjulla, Sheorog, Cerjulla::(4069-4111)—The Tydonni Earl of Warnute, claimed by disease at Caraskand.
 Cern Auglai::A fortress and pirate entrepot located on the coast of Thunyerus.
 Cet’ingira::(?- )—See Mekeritrig.
 Ce Tydonn::A Norsirai nation of the Three Seas, located north of Conriya on the eastern shoreline of the Meneanor, founded in 3742 in the wake of Cengemis’s collapse. The first mention of the Tydonni is found in Casidas’s Annals of Cenei, where he mentions their raids across the River Swa. Descendants of White Norsirai refugees from the Apocalypse, the Tydonni are thought to have occupied the southern regions of the Dameori Wilderness for centuries, prevented by their native fractiousness from causing much difficulty for their southern Ketyai neighbours. At some point in the thirty-eighth century, however, they united, and with little difficulty overwhelmed the Men of Cengemis at the Battle of Marswa in 3722. It wasn’t until King Haul-Namyelk finally succeeded in unifying the various tribes under his absolute authority in 3741 that Ce Tydonn proper came into existence. Perhaps the most peculiar and distinctive predilection of the Tydonni is found in their racial beliefs. Ti dunn literally means “struck iron” in their tongue, reflecting their belief that their people have been purified by the crucible of their long wandering through the Dameori wildernesses. They hold that this gives them “privileged blood,” rendering them morally, intellectually, and physically superior to other races. This has made the Tydonni cruel overlords of the Cengemi, who have often rebelled against them.
 chav::An addictive narcotic popular among the Ainoni aristocracy, although many eschew it because of its uncertain origins. Chanv reputedly sharpens the intellect, extends one’s lifespan, and drains the body of all its pigment. Charamemas (4036-4108)—The famed Shrial commentator and author of The Ten Holies. Achamian’s replacement as Proyas’s tutor in exoterics in 4093.
-Charcharius, Trimus Charcharius::(4052- )—The Patridomos of the House Trimus.
+Trimus Charcharius, Charcharius::(4052- )—The Patridomos of the House Trimus.
 Chargiddo::A large fortress located on the frontier of Xerash and Amoteu beneath the Betmulla Mountains.
 Chemerat::An ancient Kyranean name for Shigek, meaning “Red Land.”
 Chepheramunni::(4068-4111)—The King-Regent of High Ainon, nominal leader of the Ainoni during much of the First Holy War, claimed by disease at Caraskand.
@@ -176,7 +176,7 @@ Chiama::Walled town on the River Sempis, destroyed by the First Holy War in 4111
 Chianadyni::A governorate of Kian and one-time tributary of the Nansur Empire. Located to the west of Eumarna and east of Nilnamesh, Chianadyni is the traditional homeland of the Kianene and, after Eumarna, the wealthiest and most populous governorate in Kian.
 Chigra::“Slaying Light” (Aghurzoi) An ancient Sranc name for Seswatha.
 Children of Eänna::An epithet for Men in The Chronicle of the Tusk.
-Chinjosa, Musammu Chinjosa::(4078- )—The Count-Palatine of the Ainoni province of Antanamera, appointed King-Regent of High Ainon shortly after Chepheramunni’s death in the winter of 4111.
+Musammu Chinjosa, Musammu, Chinjosa::(4078- )—The Count-Palatine of the Ainoni province of Antanamera, appointed King-Regent of High Ainon shortly after Chepheramunni’s death in the winter of 4111.
 Chorae::Artifacts of the Ancient North, also known as “Trinkets” (to the Schools) and “The Tears of God” (to the Inrithi). In appearance, Chorae are small iron spheres, one inch in diameter, that are banded by runes written in Gilcûnya, the holy tongue of the Nonmen Quya. Chorae are extraordinary in that they render their bearer immune to all sorcerous Cants and instantly kill any sorcerer who comes into contact with them. Although the principles behind their creation (they belong to a lost branch of sorcery called the Aporos) are no longer understood, thousands are believed to circulate in the Three Seas alone. The Chorae play a pivotal role in the political balance of power in the Three Seas, insofar as they allow the non-scholastic Great Factions to check the power of the Schools.
 Chorae bowmen::Specialized units that use Chorae affixed to the end of arrow shafts or crossbow bolts to kill enemy sorcerers. Chorae archers are a staple of almost every military organization in Eärwa.
 Chronicle of the Tusk::The most ancient extant human text in Eärwa, and the scriptural foundation for all mannish faiths save Fanimry. As the oldest literate work, its provenance is almost entirely unknown. Many Inrithi commentators have pointed out that it must have been a collective work, cobbled together from many (likely oral) sources over a period of many years. Like most scriptures, its popular interpretation is highly selective and idealized. It consists of the following six books:
@@ -209,7 +209,7 @@ Commerce of Souls::Ajencis’s classic treatise on politics.
 Condic::The language group of ancient pastoralists of the Near Istyuli Plains.
 Conditioned::A term used to refer to the Dûnyain.
 Conditioning::Specifically, the arduous physical, emotional, and intellectual training undergone by Dûnyain monks, though the term has more general and far-reaching connotations as well. The Dûnyain believe that everything is conditioned in some way, but they draw a principled distinction between the arbitrary conditioning of the world and the rational conditioning of Men. Conditioning in the light of the Logos, they believe, allows more such conditioning, which in turn leverages more such conditioning, and so on. This virtuous circle, they believe, finds its apotheosis in the Absolute: the Dûnyain believe that, using reason, they can condition themselves to the point of becoming unconditioned, a perfect, self-moving soul. See Dûnyain.
-Conphas, Ikurei Conphas::(4084- )—The nephew of Emperor Ikurei Xerius III and heir apparent to the Imperial Mantle.
+Ikurei Conphas, Conphas::(4084- )—The nephew of Emperor Ikurei Xerius III and heir apparent to the Imperial Mantle.
 Conriya::A pre-eminent Ketyai nation of the eastern Three Seas, located south of Ce Tydonn and north of High Ainon, founded in 3374 (after the collapse of the Eastern Ceneian Empire) around Aöknyssus, the ancient capital of Shir. Of the four successor nations to the Shiradi Empire (Cengemis, Conriya, Ainon, and Sansor), none has worked so hard to reclaim and preserve its ancient traditions. Nowhere are the caste divisions more rigidly observed, and nowhere are the codes governing caste-noble behaviour more strict. Though many, particularly the Ainoni, scoff at what they consider the affectation of antique ways, there can be little doubt that the resulting social discipline has served the Conriyans well. Since gaining independence, Conriya has successfully weathered innumerable incursions, invasions, blockades, and embargoes, almost all of them due to the machinations of High Ainon.
 Conriyan::The language of Conriya, a derivative of Sheyo-Kheremic.
 Consult::The cabal of Magi and Generals that survived the death of Mog in 2155 and has laboured ever since to bring about the return of the No-God.
@@ -217,16 +217,16 @@ Coyauri::The famed elite heavy cavalry of the Kianene Padirajah, first organized
 Csokis::A derelict Inrithi temple complex located in Caraskand.
 Cuärweth::A province of interior Ce Tydonn, located to the north of Meigeiri.
 Cuäxaji::(4069- )—The Sapatishah-Governor of Khemema.
-Cu’jara Cinmoi::(?-?)—The greatest of the Nonman Kings and first great foe of the Inchoroi. See Cûno-Inchoroi Wars.
+Cu’jara Cinmoi, Cinmoi, Cu’jara::(?-?)—The greatest of the Nonman Kings and first great foe of the Inchoroi. See Cûno-Inchoroi Wars.
 Cultic Deities::See Hundred Gods.
 Cultic Priests::Those priests, usually hereditary, devoted to the service and worship of one of the Hundred Gods.
 Cults::The collective name of all the various sects devoted to the individual Gods of the so-called Kiünnat. In the Three Seas, the Cults have been administratively and spiritually subordinate to the Thousand Temples since Triamis I, the first Aspect-Emperor of Cenei, declared Inrithism the official state religion of the Ceneian Empire in 2505.
-Cumor, Haarnan, Haarnan Cumor::(4043-4111)—The High Cultist of Gilgaöl in the Holy War, claimed by disease at Caraskand.
+Haarnan Cumor, Cumor, Haarnan::(4043-4111)—The High Cultist of Gilgaöl in the Holy War, claimed by disease at Caraskand.
 Cûno-Halaroi Wars::The wars between Nonmen and Men following the Breaking of the Gates, of which very few accounts exist. See Breaking of the Gates.
 Cûno-Inchoroi Wars::The protracted series of wars between the Nonmen and the Inchoroi following the ancient arrival of the latter. According to the Isûphiryas, the Incû-Holoinas, the “Ark-of-the-Skies,” plunged to earth to the west of the Sea of Neleost in land ruled by Nin’janjin, the Nonman King of Viri. The letter sent by Nin’janjin to Cû’jara-Cinmoi, the King of Siöl, is recorded as follows: The Sky has cracked into potter’s shards, Fire sweeps the compass of Heaven, The beasts flee, their hearts maddened, The trees fall, their backs broken. Ash has shrouded all sun, choked all seed, The Halaroi howl piteously at the Gates, Dread Famine stalks my Mansion. Brother Siöl, Viri begs your pardon. Rather than send aid to Nin’janjin, Cû’jara-Cinmoi assembled an army and invaded the lands of Viri. Nin’janjin and his Ishroi capitulated without battle; Viri became a bloodless tributary of Siöl. The western lands of Viri, however, remained shrouded in cloud and ash. Survivors from the region spoke of a fiery vessel streaking across the skies. So Cû’jara-Cinmoi commanded Ingalira, a hero of Siöl, to lead an expedition to find this Ark. What happened to Ingalira on this expedition is not recorded, but he returned to Siöl some three months later and presented two inhuman captives to Cû’jara-Cinmoi. Ingalira called these captives Inchoroi, or “People of Emptiness,” both because the sounds they made were empty of meaning and because they fell from the emptiness of the sky. He spoke of flattened forests and gouged plains, of mountains thrown into a ring, and of two golden horns rearing from a molten sea, so mighty they brushed the clouds. Repelled by the obscene aspect of the Inchoroi, Cû’jara-Cinmoi had them put to death, and set a Watch upon the Incû-Holoinas, the Ark-of-the-Skies. Years passed, and the power of Cû’jara-Cinmoi and the High Mansion of Siöl waxed. The Mansion of Nihrimsul was subdued, and her King, Sin’niroiha, “First Among Peoples,” was forced to wash the sword of Cû’jara-Cinmoi. With the subsequent conquest of Cil-Aujas to the south, Siöl and her High King commanded an empire that ranged from the Yimaleti Mountains to the Sea of Meneanor.  During this time, the Watch was kept on the Ark. The land cooled. The skies cleared. Either because of original inconsistencies or because of subsequent corruptions, extant versions of the Isûphiryas are unclear as to the subsequent order of events. At some point a secret embassy of Inchoroi reached Nin’janjin at Viri. Unlike the Inchoroi brought to Cû’jara-Cinmoi by Ingalira, these possessed the ability to speak Ihrimsû. They reminded Nin’janjin of Cû’jara-Cinmoi’s treachery in his time of need, and offered an alliance to break the yoke of Siöl over Viri. They would undo, the Inchoroi said, the misfortune their coming had wrought upon the Cûnuroi of Viri. Despite the warnings of his Ishroi, Nin’janjin accepted the Inchoroi terms. Viri revolted. The Siölan Ishroi within its halls were slain; the rest were enslaved. At the same time, the Inchoroi swarmed from the Ark, overwhelming the Watch. Only Oirinas and his twin, Oirûnas, survived, riding hard to warn Cû’jara-Cinmoi. Sil, the Inchoroi King, and Nin’janjin assembled their hosts to meet Cû’jara-Cinmoi on the fields of Pir-Pahal, which Men would call Eleneöt in a later age. According to the Isûphiryas, the Nonmen of Viri were dismayed by the sight of their allies, who wore fierce and
 Cûnuroi::See Nonmen.
 “Cut from them their tongues ...”::The famous phrase from The Chronicle of the Tusk condemning sorcery and sorcerers.
-Cynnea, Braelwan, Braelwan Cynnea::(4059-4111)—The Galeoth Earl of Agmundr, claimed by disease at Caraskand.
+Braelwan Cynnea, Cynnea, Braelwan::(4059-4111)—The Galeoth Earl of Agmundr, claimed by disease at Caraskand.
 Dagliash::The ancient Aörsic fortress overlooking the River Sursa and the Plains of Agongorea. It changed hands several times in the wars preceding the Apocalypse. See Apocalypse.
 Daimos::Also known as noömancy. The sorcery of summoning and enslaving agencies from the Outside. For both political and pragmatic reasons, many Schools forbid its practice. Some esoteric scholars claim that Daimotic sorcerers condemn themselves to eternal torment at the hands of their erstwhile slaves when they die.
 Dakyas::A semi-mountainous district of Nilnamesh.
@@ -240,7 +240,7 @@ Dead-God::See Lokung.
 A Defence of the Arcane Arts::The famed sorcerous apologia of Zarathinius, which is as widely cited by philosophers as by sorcerers because of its pithy critiques not only of the Inrithi prohibition of sorcery but of Inrithism itself. The work has long been banned by the Thousand Temples.
 Demua Mountains, Demua::An extensive range located in northwestern Eärwa, forming the frontier between Injor-Niyas and what was once Kûniüri.
 denotaries::In Gnostic sorcery, the “primer” Cants given to students to practise “dividing their voice,” which is to say, saying and thinking two separate things.
-Detnammi, Hirul::(4081-4111)—The Palatine of the Ainoni province of Eshkalas, slain at Subis under dishonourable circumstances.
+Hirul Detnammi, Detnammi, Hirul::(4081-4111)—The Palatine of the Ainoni province of Eshkalas, slain at Subis under dishonourable circumstances.
 Dialogues of Inceruti::One of the most famous “missing works” of Far Antiquity, frequently referenced by Ajencis.
 Dinchases, Bloody Dinch::(4074-4111)—A Captain of Attrempus and lifelong comrade-in-arms to Krijates Xinemus, slain at Iothiah. Also known as “Bloody Dinch.”
 Doff your sandals and shod the earth::A common saying meant to remind listeners not to project their failings onto others.
@@ -259,7 +259,7 @@ Ecosium Market::The main “wares market” of Sumna, located just south of the 
 Ej’ulkiyah::A Khirgwi name for the Carathay Desert meaning “Great Thirst.”
 Ekyannus I::(2304-72)—The first “institutional” Shriah of the Thousand Temples, and the author of the widely admired 44 Epistles.
 Ekyannus III::“the Golden” (2432-2516)—The Shriah of the Thousand Temples who converted Triamis the Great in 2505 and thus assured the predominance of Inrithism in the Three Seas.
-Eleäzaras, Hanamanu Eleäzaras::(4060- )—The Grandmaster of the Scarlet Spires.
+Hanamanu Eleäzaras, Eleäzaras::(4060- )—The Grandmaster of the Scarlet Spires.
 Eleneöt, Fields of Eleneöt::See Battle of Eleneöt Fields.
 elju::The Ihrimsû word for “book,” referring to someone, either Man or Sranc, who accompanies a Nonman to aid with his failing memory.
 Empire-behind-the-Mountains::A Scylvendi name for the Nansurium.
@@ -272,7 +272,7 @@ Eöthic Garrison::The primary fortress and barracks of the Emperor’s personal 
 Eöthic Guard::The personal heavy infantry guard of the Nansur Emperors, consisting primarily of Norsirai mercenaries from Cepalor.
 Epistemologies::A work oft attributed to Ajencis but more likely a redacted compilation drawn from his other works. Many consider it his definitive philosophical statement on the nature of knowledge, but some argue that it distorts his position since it presents a unitary vision of views that actually evolved quite dramatically over the course of his life.
 Eritga::(4092-4111)—A Galeoth slave-girl belonging to Cutias Sarcellus, slain in the deserts of Khemema.
-Eryeat, Coithus Eryeat::(4038- )—The King of Galeoth, and father of Coithus Saubon.
+Coithus Eryeat, Eryeat::(4038- )—The King of Galeoth, and father of Coithus Saubon.
 Eshganax::A Palatinate of High Ainon, located across the north Secharib Plains.
 Eshkalas::A Palatinate of High Ainon, famed for the quality of its cotton, located on the western edge of the Secharib Plains.
 Eumarna::The most populous governorate of Kian and former province of the Nansur Empire. Located to the south of the Betmulla Mountains, Eumarna is a large, fertile land that is primarily known for its exports of wine and horses.
@@ -284,7 +284,7 @@ Expect not, and you shall find glory everlasting::The Tractate, Book of Priests,
 Fallow Gate::The northernmost gate of Ishuäl.
 Fama Palace::The residence and administrative seat of the Warrior-Prophet while the First Holy War remained in Caraskand, located on the Heights of the Bull.
 Fanashila::(4092-)—One of Esmenet’s Kianene body-slaves.
-Fanayal ab Kascamandri::(4075- )—The first-born son of the Padirajah, and leader of the Coyauri, his famed elite heavy cavalry.
+Fanayal ab Kascamandri, Fanayal::(4075- )—The first-born son of the Padirajah, and leader of the Coyauri, his famed elite heavy cavalry.
 Fane::(3669-3742)—The Prophet of the Solitary God and founder of Fanimry. Initially a Shrial Priest in the Nansur province of Eumarna, Fane was declared a heretic by the ecclesiastical courts of the Thousand Temples in 3703 and banished to certain death in the Carathay Desert. According to Fanim tradition, rather than dying in the desert, Fane went blind, experienced the series of revelations narrated in the kipfa’aifan, the “Witness of Fane,” and was granted miraculous powers (the same powers attributed to the Cishaurim) he called the Water of Indara. He spent the remainder of his life preaching to and consolidating the desert tribes of the Kianene, who after his death would launch the White Jihad under the leadership of Fane’s son, Fan’oukarji I.
 Fanim::The name used by the Inrithi to refer to the followers of Fanimry.
 Fanimry::A monotheistic faith founded upon the revelations of the Prophet Fane. The central tenets of Fanimry deal with the solitary nature and transcendence of the God, the falseness of the Gods (who are considered demons by the Fanim), the repudiation of the Tusk as unholy, and the prohibition of all representations of the God.
@@ -293,7 +293,7 @@ Far Antiquity::The historical period beginning with the Breaking of the Gates an
 Feast of Kussapokari::A traditional Inrithi holiday marking the summer solstice.
 fevers::A generic name for various forms of malaria.
 Few, the few::Those born with the innate ability to sense the onta and work sorcery. See sorcery.
-Finaöl, Weofota::(4066-4111)—The Earl of the Tydonni province of Canute, slain at Anwurat.
+Weofota Finaöl, Finaöl, Weofota::(4066-4111)—The Earl of the Tydonni province of Canute, slain at Anwurat.
 First and Final Word::A common epithet for the words of Inri Sejenus.
 Five Tribes of Men::The five rough cultural and racial groups that migrated into the Eärwic subcontinent at the beginning of the Second Age; respectively, the Norsirai, the Ketyai, the Satyothi, the Scylvendi, and the Xiuhianni.
 Flail, the Flail::A constellation in the northern sky.
@@ -307,23 +307,23 @@ Gaenkelti::(4068-4111)—The Exalt-Captain of the Palatial Eöthic Guard.
 Gaenri::A fiefdom of Galeoth, located to the northwest near the Hethantas.
 Gaeterius::(2981-3045)—The Ceneian slave-scholar celebrated for his commentaries on The Chronicle of the Tusk collected under the title Contemplations on the Indentured Soul.
 Gaethuni::A fiefdom of Ce Tydonn, located on the southwestern coasts.
-Gaidekki, Shressa Gaidekki::(4062- )—The Palatine of the Conriyan district of Anplei.
+Shressa Gaidekki, Shressa, Gaidekki::(4062- )—The Palatine of the Conriyan district of Anplei.
 Gâl, Plains of Gâl::A great expanse of grasslands to the north of the Cerish Sea.
 Galeoth::A Norsirai nation of the Three Seas. Following the Apocalypse, countless thousands of Meöri refugees settled the environs north of Lake Huösi. Though nominally tributary to the Ceneian Empire, surviving records indicate that the “Galoti,” as the Ceneians called them, were a fractious and warlike people. At some point in the thirty-fifth century, sedentary kingdoms began to displace the pastoral tribes along the Vindauga and Sculpa rivers. Galeoth proper did not arise until c. 3683, when King Norwain I reputedly concluded twenty years of campaigning and conquest by having his captive foes butchered en masse in the reception hall of Moraör, the great palace complex of the Galeoth Kings.
 Galeoth Wars::The wars fought between Galeoth and the Nansur Empire, first in 4103-4, then again in 4106. In each case the Galeoth, under the generalship of Coithus Saubon, enjoyed early successes, only to be subsequently defeated in more decisive engagements, the last of which was the Battle of Procorus, where Ikurei Conphas commanded the Imperial Army.
-Galgota, Nisht Galgota::(4062- )—The Palatine of the Ainoni palatinate of Eshganax.
+Nisht Galgota, Nisht, Galgota::(4062- )—The Palatine of the Ainoni palatinate of Eshganax.
 Gallish::The language of Galeoth, derived from Old Meoric.
-Ganbrota, Murworg Ganbrota::(4064- )—The Earl of the Thunyeri fiefdom of Ingraul.
+Murworg Ganbrota, Murworg, Ganbrota::(4064- )—The Earl of the Thunyeri fiefdom of Ingraul.
 gandoki::“shadows” (Gallish) A traditional Galeoth sport where two men, their wrists bound to either end of two poles, attempt to knock each other off their footing.
 Ganrelka II, Anasûrimbor Ganrelka II::(2104-47)—The successor of Celmomas II and the last reigning High King of Kûniüri.
-Ganrikka, Warthût Ganrikka::(4070- )—A client thane of Gothyelk.
-Ganyatti, Amurrei Ganyatti::(4064- )—The Conriyan Palatine of the district of Ankirioth.
+Warthût Ganrikka, Warthût, Ganrikka::(4070- )—A client thane of Gothyelk.
+Amurrei Ganyatti, Amurrei, Ganyatti::(4064- )—The Conriyan Palatine of the district of Ankirioth.
 Gaörtha::The true name of the second skin-spy to pose as Cutias Sarcellus.
 Garsahadutha, Ram-Sassor Garsahadutha::(4076-4111)—A Tributary Prince of Sansor, leader of the Sansori in the Ainoni contingent of the Holy War, slain at the Battle of Anwurat.
 Gate of Horns::One of Caraskand’s main gates.
 Gate of Pelts::One of Sumna’s famed Nine Great Gates, opening onto the Karian Way.
 Gaumum, House Gaumum::A Nansur House of the Congregate, with holdings scattered across the western Kyranae Plain.
-Gayamakri, Sattushal Gayamakri::(4070- )—One of the Nascenti, formerly an Ainoni baron.
+Sattushal Gayamakri, Sattushal, Gayamakri::(4070- )—One of the Nascenti, formerly an Ainoni baron.
 Gedea::A governorate of Kian and former province of the Nansur Empire. Located between Shigek and the Anaras Spur, Gedea is a semi-arid land with interior plateaus and semi-mountainous coasts. Historically, Gedea is primarily known as the battleground between ancient Shigek and Kyraneas.
 Gekas::A palatinate of High Ainon, located on the upper River Sayut.
 Gerotha::The administrative and commercial capital of Xerash.
@@ -350,9 +350,9 @@ Golgotterath::The nigh impregnable stronghold of the Consult, located to the nor
 Gonrain, Hoga::(4088- )—The second-eldest son of Earl Gothyelk.
 gopa::A red-throated gull common to the southern Three Seas, and notoriously ill-mannered.
 Gotagga::(c. 687-735)—Great Umeri sorcerer credited with the birth of philosophy apart from what had been purely theological speculation. According to Ajencis, Men explained the world with characters and stories before Gotagga and with principles and observations after.
-Gotheras, Hoga Gotheras::(4081- )—The eldest son of Earl Gothyelk.
-Gothyelk, Hoga Gothyelk::(4052- )—The Earl of Agansanor, and leader of the Tydonni contingent of the Holy War.
-Gotian, Incheiri Gotian::(4065- )—The Grandmaster of the Shrial Knights and Maithanet’s representative in the Holy War.
+Hoga Gotheras, Gotheras::(4081- )—The eldest son of Earl Gothyelk.
+Hoga Gothyelk, Gothyelk::(4052- )—The Earl of Agansanor, and leader of the Tydonni contingent of the Holy War.
+Incheiri Gotian, Incheiri, Gotian::(4065- )—The Grandmaster of the Shrial Knights and Maithanet’s representative in the Holy War.
 Grandmaster::The title bestowed upon the administrative rulers of the Schools.
 Great Desert::See Carathay Desert.
 Great Factions::The general term used to refer to the most powerful military and political institutions of the Three Seas.
@@ -366,9 +366,9 @@ Great Salt::A particularly harsh region of the Carathay Desert bordering traditi
 Great Ziggurat of Xijoser::The largest of the Shigeki Ziggurats, raised by the Old Dynasty God-King Xijoser c. 670.
 Griasa::(4049-4111)—A slave belonging to House Gaunum, and a friend of Serwë’s.
 Gunsae::A long-abandoned Ceneian fortress located on the Gedean coast.
-Gurnyau, Hoga Gurnyau::(4091-4111)—The youngest son of Earl Gothyelk, slain in Caraskand.
+Hoga Gurnyau, Gurnyau::(4091-4111)—The youngest son of Earl Gothyelk, slain in Caraskand.
 haeturi::The Nansur name for the bodyguards assigned to high-ranking officers in the Imperial Army.
-Hagarond, Raeharth Hagarond::(4059-4111)—The Galeoth Earl of Usgald, slain at Mengedda.
+Raeharth Hagarond, Raeharth, Hagarond::(4059-4111)—The Galeoth Earl of Usgald, slain at Mengedda.
 Hagerna::The vast temple complex located in Sumna, housing the Junriüma, the many Colleges, and the administrative machinery of the Thousand Temples.
 Hamishaza::(3711-83)—A renowned Ainoni dramatist, remembered for his Tempiras the King and his jnanic wit, which was rumoured to be unparalleled.
 Ham-Kheremic::The lost language of ancient Shir.
@@ -376,22 +376,22 @@ Hamoric::The language group of the ancient Ketyai pastoralists of the eastern Th
 the hand of Triamis, the heart of Sejenus, and the intellect of Ajencis::The famous saying attributed to the poet Protathis, referring to the qualities all men should strive for.
 Hansa::A slave-girl belonging to Cutias Sarcellus.
 Hapetine Gardens::One of many architectural idylls on the Andiamine Heights.
-Hasjinnet ab Skauras::(4067-4103)—The eldest son of Skauras ab Nalajan, slain by Cnaiür urs Skiötha at the Battle of Zirkirta in 4103.
+Hasjinnet ab Skauras, Hasjinnet::(4067-4103)—The eldest son of Skauras ab Nalajan, slain by Cnaiür urs Skiötha at the Battle of Zirkirta in 4103.
 Hatatian::(3174-3211)—The infamous author of the Exhortations, a work that eschews traditional Inrithi values and espouses an ethos of unprincipled self-promotion. Though long censured by the Thousand Temples, Hatatian remains popular among the castenobility of the Three Seas.
-Haurut urs Mab::(4000-4082)—An Utemot memorialist when Cnaiür was a child.
+Haurut urs Mab, Haurut, Mab::(4000-4082)—An Utemot memorialist when Cnaiür was a child.
 Heights of the Bull::One of the nine heights of Caraskand.
 hemoplexy::A common disease of war characterized by intense fevers, vomiting, skin irritation, severe diarrhea, and, in the most extreme cases, coma and death. Also known as “the hollows” or “the hemoplectic hand.”
-Heörsa, Dun Heörsa::(4078- )—A Shield-Captain of the Hundred Pillars, formerly a Galeoth thane.
+Dun Heörsa, Heörsa::(4078- )—A Shield-Captain of the Hundred Pillars, formerly a Galeoth thane.
 Heresiarch::The title of the leader of the Cishaurim.
 Heron Spear::A powerful artifact of the Inchoroi Tekne, so named because of its unique shape. The Heron Spear first appears in the Isûphiryas as Suörgil (Ihrimsû, “Shining Death”), the great “spear of light” taken by Cu’jara Cinmoi from the corpse of Sil, the Inchoroi King, at the battle of Pir Pahal. For millennia the Heron Spear lay in the possession of the Nonmen of Ishoriol, until it was stolen by Cet’ingira (see Mekertrig) and delivered to Golgotterath c. 750. Then in 2140 it was stolen again by Seswatha (see Apocalypse), who believed it to be the only weapon capable of destroying the No-God. For a brief time it was thought destroyed at the catastrophic Battle of Eleneöt Fields, but it reappeared in 2154 in the possession of Anaxophus V, High King of Kyraneas, who used it to slay the No-God at the Battle of Mengedda. For centuries it resided in Cenei, a treasured possession of the AspectEmperors, only to be lost once again when the Scylvendi sacked Cenei in 3351. Its whereabouts are presently unknown.
 Hethanta Mountains::A large mountain range located in central Eärwa.
-Hifanat ab Tunukri::(4084-4111)—A Cishaurim sorcerer-priest and servant of Anasûrimbor Moënghus, slain at Caraskand.
+Hifanat ab Tunukri, Hifanat::(4084-4111)—A Cishaurim sorcerer-priest and servant of Anasûrimbor Moënghus, slain at Caraskand.
 High Ainon::A Ketyai nation of the eastern Three Seas, and the only nation to be ruled by one of the Schools, the Scarlet Spires. Founded in 3372 after Sarothesser I defeated General Maurelta at the Battle of Charajat, High Ainon has long been one of the most populous and powerful nations of the Three Seas. The agricultural production of the Secharib Plains combined with that of the Sayut Delta and River Valley supports both an extensive caste-nobility (noted for their wealth and their obsession with jnan) and an aggressive mercantilism. Ainoni ships can be found berthed in every port in the Three Seas. During the Scholastic Wars (3796-3818), the School of the Scarlet Spires, which is based in the capital, Carythusal, managed to destroy the army of King Horziah III and assumed indirect control of the nation’s primary institutions. The nominal head of state, the King-Regent, answers directly to the Grandmaster.
 High Kunna::The debased version of Gilcûnya used by the Anagogic Schools of the Three Seas.
 High Sakarpean::The language of ancient Sakarpus, a derivative of ancient Skettic.
 High Sheyic::The language of the Ceneian Empire, a derivative of ancient Kyranean.
 High Vurumandic::The language of the Nilnameshi ruling castes, a derivative of Vaparsi.
-Hilderath, Solm Hilderath::(4072- )—One of the Nascenti, formerly a Tydonni thane.
+Solm Hilderath, Hilderath::(4072- )—One of the Nascenti, formerly a Tydonni thane.
 Hinayati Mountains::A large system of mountain ranges located in southwestern Eärwa, sometimes called “the spine of Nilnamesh.”
 Hinnant::A palatinate of High Ainon, located in the heart of the Secharib Plains.
 Hinnereth::The administrative and commercial capital of Gedea, located on the Meneanor coast.
@@ -403,9 +403,9 @@ hollows::See hemoplexy.
 Holy Precincts::See Hagerna.
 Holy War::The Inrithi host summoned by Maithanet that invaded Kian in 4111 bent upon the reconquest of Shimeh.
 Home City::A common Nansur epithet for Momemn.
-Hortha, Sonhail Hortha::(4064- )—A Galeoth knight, client to Prince Coithus Saubon.
+Sonhail Hortha, Sonhail, Hortha::(4064- )—A Galeoth knight, client to Prince Coithus Saubon.
 Houses of the Congregate::A quasi-legislative assembly consisting of the primary landholding families of the Nansur Empire.
-Hulwarga, Hringa Hulwarga::(4086- )—The second son of King Hringa Rauschang of Thunyerus, and leader of the Thunyeri contingent of the First Holy War after the death of his older brother, Prince Hringa Skaiyelt, in Caraskand. Called the Limper because of his uneven gait.
+Hringa Hulwarga, Hulwarga::(4086- )—The second son of King Hringa Rauschang of Thunyerus, and leader of the Thunyeri contingent of the First Holy War after the death of his older brother, Prince Hringa Skaiyelt, in Caraskand. Called the Limper because of his uneven gait.
 Hundred Gods::The collective name of the Gods enumerated in The Chronicle of the Tusk and worshipped either under the auspices of the Cults (which is to say, subordinate to the Thousand Temples), or in the traditional versions of the Kiünnat. In the Inrithi tradition, the Hundred Gods are thought to be aspects of the God (whom Inri Sejenus famously called “the Million Souled”), much the way various personality traits could be said to inhabit an individual. In the far more variegated Kiünnat tradition, the Hundred Gods are thought to be independent spiritual agencies, prone to indirectly intervene in the lives of their worshippers. Both traditions recognize the differences between the Compensatory Gods, who promise direct reward for worship and devotion, the Punitive Gods, who secure sacrifices through the threat of suffering, and the more rare Bellicose Gods, who despise worship as sycophancy and favour those who strive against them. Both the Inrithi and Kiünnat traditions see the Gods as indispensable to eternal life in the Outside. The esoteric apologist Zarathinius is infamous for arguing (in A Defence of the Arcane Arts) the absurdity of worshipping deities as imperfect and capricious as mere Men. The Fanim, of course, believe the Hundred Gods are renegade slaves of the Solitary God— demons.
 Hundred Pillars::The Warrior-Prophet’s personal bodyguard, named after the one hundred men rumoured to have surrendered their water—and their lives—to him on the Trail of Skulls.
 Huösi, Lake Huösi::A large freshwater lake draining the Vindauga and Sculpa river systems, and emptying into the Wutmouth.
@@ -418,45 +418,45 @@ Ihrimsû::The tongue of Injor-Niyas.
 Ikurei, House Ikurei::A Nansur House of the Congregate, with holdings concentrated in and about Momemn. The Imperial House since 3941.
 Ikurei Anphairas I, Anphairas::(4022-81)—The Emperor of Nansur from 4066 to 4081, and grandfather of Ikurei Xerius III, assassinated by persons unknown.
 Ikurei Dynasty::Always one of the more powerful Houses of the Congregate, the Ikurei seized the Imperial Mantle in 3941, capitalizing on the turmoil following the loss of Shigek and then Gedea to Kian in the Dagger Jihad. Ikurei Sorius I became the first of a line of shrewd yet defensive Ikurei Emperors. SeeNansur Empire.
-Ikurei Xerius III::(4059- )—The Emperor of the Nansur Empire.
-Imbeyan ab Imbaran::(4067-4111)—Sapatishah-Governor of Enathpaneah and son-in-law of the Padirajah, slain at Caraskand.
+Ikurei Xerius III, Xerius::(4059- )—The Emperor of the Nansur Empire.
+Imbeyan ab Imbaran, Imbeyan, Imbaran::(4067-4111)—Sapatishah-Governor of Enathpaneah and son-in-law of the Padirajah, slain at Caraskand.
 Imperial Army::A common name for the standing Nansur army.
 Imperial Precincts::The name given to the grounds of the Andiamine Heights.
 Imperial Saik::The School indentured to the Nansur Emperor.
 Imperial Sun::The primary symbol of the Nansur Empire.
 Impromta::The anonymously written collection of the Warrior-Prophet’s earliest sermons and aphorisms.
-Imrothas, Sarshressa Imrothas::(4054-4111)—The Palatine of the Conriyan province of Aderot, claimed by disease at Caraskand.
+Sarshressa Imrothas, Sarshressa, Imrothas::(4054-4111)—The Palatine of the Conriyan province of Aderot, claimed by disease at Caraskand.
 Inchoroi::“People of Emptiness” (Ihrimsû) A mysterious and obscene race that, according to legend, descended from the void in the Incû-Holoinas. Very little is known about them, aside from their apparently limitless capacity for cruelty and their malignant obsession with the carnal. See Cûno-Inchoroi Wars.
 Incû-Holoinas::“Ark-of-the-Skies” (Ihrimsû) The great vessel that brought the Inchoroi from the heavens and became the golden heart of Golgotterath.
 Indara-Kishauri::The “tribe” of the Cishaurim. The “Indara” refer, in the Kianene tradition, to the “tribe of water-bearers,” a legendary band that supposedly wandered the dunes dispensing water and mercy to the faithful. The designation is critical (according to the kipfa’aifan, it saved Fane’s life), given the importance of tribal affiliation in desert Kianene society.
 Indenture::The infamous document used by Ikurei Xerius III in his attempt to secure the lands conquered by the First Holy War.
 Indigo Plague::According to legend, the pestilence swept up from the No-God’s ashes after his destruction at the hands of Anaxophus V in 2155. Mandate scholars dispute this, claiming that the No-God’s body was recovered by the Consult and interred in Golgotterath. Whatever the cause, the Indigo Plague ranks as among the worst in recorded history.
 Indurum Barracks::A lodging for soldiers located in Caraskand and dating back to the Nansur occupation of the city.
-Ingiaban, Sristai Ingiaban::(4059- )—The Palatine of the Conriyan province of Kethantei.
+Sristai Ingiaban, Sristai, Ingiaban::(4059- )—The Palatine of the Conriyan province of Kethantei.
 Ingoswitu::(1966-2050)—A far antique Kûniüric philosopher, famed in his own day for his Dialogia but primarily known in the Three Seas through Ajencis and his famed critique of Ingoswitu’s Theosis in The Third Analytic of Men.
 Ingraul::A fiefdom of the Thunyeri Sranc Marches.
-Ingusharotep II::(c. 1000-c. 1080)—The Old Dynasty Shigeki King who conquered the Kyranae Plains.
+Ingusharotep II, Ingusharotep::(c. 1000-c. 1080)—The Old Dynasty Shigeki King who conquered the Kyranae Plains.
 Injor-Niyas::The last remaining Nonmen nation, located beyond the Demua Mountains. See Ishterebinth.
-Inrau, Paro Inrau::(4088-4110)—A former student of Drusas Achamian, slain in Sumna.
-Inri Sejenus::(c. 2159-2202)—The Latter Prophet and spiritual (although not historical) founder of the Thousand Temples, who claimed to be the pure incarnation of Absolute Spirit (“the very proportion of the God”), sent to emend the teachings of the Tusk. After his death and supposed ascension to the Nail of Heaven, his disciples recounted his life and teachings in The Tractate, the text that is now considered by the Inrithi to be as holy as The Chronicle of the Tusk.
+Paro Inrau, Paro, Inrau::(4088-4110)—A former student of Drusas Achamian, slain in Sumna.
+Inri Sejenus, Inri, Sejenus::(c. 2159-2202)—The Latter Prophet and spiritual (although not historical) founder of the Thousand Temples, who claimed to be the pure incarnation of Absolute Spirit (“the very proportion of the God”), sent to emend the teachings of the Tusk. After his death and supposed ascension to the Nail of Heaven, his disciples recounted his life and teachings in The Tractate, the text that is now considered by the Inrithi to be as holy as The Chronicle of the Tusk.
 Inrithi::The followers of Inri Sejenus, the Latter Prophet, and his amendments to the Tusk.
 Inrithism::The faith founded upon the revelations of Inri Sejenus, the Latter Prophet, which synthesizes elements of both monotheism and polytheism. The central tenets of Inrithism deal with the immanence of the God in historical events, the unity of the individual deities of the Cults as Aspects of the God, and the role of the Thousand Temples as the very expression of the God in the world.      Following the alleged ascension of Inri Sejenus, Inrithism slowly established itself throughout the Ceneian Empire as an organized hierarchy independent of the state—what came to be called the Thousand Temples. Initially, the existing traditionalist Kiünnat sects simply dismissed the new religion, but as it continued to grow, a number of attempts were made to circumscribe its powers and prevent its further spread, none of them particularly effective. Escalating tensions eventually culminated in the Zealot Wars (c. 2390- 2478), which, although technically a civil war, saw battles fought far outside the boundaries of what then constituted the Ceneian Empire.    In 2469, Sumna capitulated to Shrial forces, but hostilities continued until Triamis was anointed Emperor in 2478. Though himself Inrithi (converted by Ekyannus III), and despite enacting the constitution governing the division of powers between the Imperium and the Thousand Temples, he refrained from declaring Inrithism the official state religion until 2505. From that point the ascendancy of the Thousand Temples was assured, and over the ensuing centuries the remaining Kiünnat “heresies” of the Three Seas would either wither away or be forcibly stamped out.
 Inshull::(?-?)—One of the Chieftain-Kings named in the Tusk.
-Inskarra, Saweor Inskarra::(4061-4111)—The Earl of the Thunyeri province of Skagwa, slain at Anwurat.
+Saweor Inskarra, Saweor, Inskarra::(4061-4111)—The Earl of the Thunyeri province of Skagwa, slain at Anwurat.
 Inûnara Highlands::A region of foothills to the northeast of the Unaras Spur of the Hethanta Mountains.
 Invishi::The commercial and spiritual capital of Nilnamesh, and one of the most ancient cities of the Three Seas.
 Iothiah::A great Old Dynasty city located on the Sempis Delta.
 Irreüma::A so-called “all-Gods temple” located in the administrative quarter of the Hagerna. Though its architecture belongs to the classical Kyranean period, its provenance is unknown.
-Iryssas, Krijates Iryssas::(4089- )—The young and impetuous majordomo of House Krijates, and cousin to Krijates Xinemus.
+Krijates Iryssas, Iryssas::(4089- )—The young and impetuous majordomo of House Krijates, and cousin to Krijates Xinemus.
 Ishoiya::Sheyic for “uncertainty.” The so-called Day of Doubt, an Inrithi holy day celebrated in late summer, commemorating the spiritual turmoil and renewal undergone by Inri Sejenus during his imprisonment in Xerash. Among the less pious, Ishoiya is renowned as a day of copious drinking.
 Ishroi::“Exalted Ones” (Ihrimsû) The name given to the Nonmen warrior castes.
 Ishterebinth::“Exalted Stronghold” (Ihrimsû) The last of the Nonmen Mansions, located to the west of the Demua Mountains. Known as Ishoriöl (“Exalted Hall”) in the Isûphiryas, Ishterebinth was considered one of the premier cities of the Cûnuroi after Siöl and Cil-Aujas. See Cûno-Inchoroi Wars.
 Ishuäl::“Exalted Grotto” (Ihrimsû) The secret fastness of the Kûniüric High Kings, located in the Demua Mountains, and subsequently inhabited by the Dûnyain.
-Istriya, Ikurei Istriya::(4045- )—The mother of Emperor Xerius III, once famed for her legendary beauty.
+Ikurei Istriya, Istriya::(4045- )—The mother of Emperor Xerius III, once famed for her legendary beauty.
 Istyuli Plains::A vast and largely semi-arid tableland running from the Yimelati Mountains in the north to the Hethanta Mountains in the south.
 Isûphiryas::“Great Pit of Years” (Ihrimsû) The great work chronicling the history of the Nonmen prior to the Breaking of the Gates. In all likelihood it is the most ancient text in existence. Sometime in the fourth century, a copy of the Isûphiryas was given to Cûnwerishau by Nil’giccas, the Nonman King of Ishoriöl (Ishterebinth), as part of the ancient treaty between their two peoples—the first between Nonmen and Men. During the reign of the God-King Carû-Ongonean, five Ûmeri translations of the Isûphiryas were bequeathed to the Library of Sauglish. Four of these were destroyed in the Apocalypse. The fifth was saved by Seswatha, who delivered it to the scribes of the Three Seas.
 Ivory Gate::The northernmost gate of Caraskand, so named because of the pale limestone used to construct it (as well as the Gate of Horns).
-Iyokus, Heramari::(4014- )—A Daimotic sorcerer of rank within the Scarlet Spires, and, despite his chanv addiction, Master of Spies to Hanamanu Eleäzaras.
+Heramari Iyokus, Iyokus, Heramari::(4014- )—A Daimotic sorcerer of rank within the Scarlet Spires, and, despite his chanv addiction, Master of Spies to Hanamanu Eleäzaras.
 Jahan Plains::The large, arid tableland that makes up the western frontier of Eumarna.
 Jarutha::A small agricultural town some twenty miles southwest of Momemn.
 Javreh::The slave-soldiers of the Scarlet Spires, famed for their ferocity in battle. The first unit was created in 3801 by Grandmaster Shinurta at the height of the Scholastic Wars.
@@ -491,7 +491,7 @@ Logos::The name used by Dûnyain to refer to instrumental reason. The Logos desc
 Lokung::The “Dead-God” of the Scylvendi. See No-God.
 Low Sheyic::The language of the Nansur Empire and lingua franca of the Three Seas.
 Maëngi::The true name of the first skin-spy to pose as Cutias Sarcellus.
-Magga, Hringa Magga::(4080-4111)—A cousin of Prince Hringa Skaiyelt of Thunyerus.
+Hringa Magga, Magga::(4080-4111)—A cousin of Prince Hringa Skaiyelt of Thunyerus.
 Maithanet::The Shriah of the Thousand Temples, and primary instigator of the First Holy War.
 Mallahet::A notorious member of the Cishaurim.
 Mamaradda::(4071-4111)—The Javreh Shield-Captain assigned to execute Drusas Achamian.
@@ -557,16 +557,16 @@ nahat::See castes.
 Nail of Heaven::The northern star that, aside from being the brightest in the night sky (it is sometimes visible in daylight), provides the axis from which all other stars revolve.
 Naïn::(4071-4111)—A sorcerer of rank in the Scarlet Spires, slain by Chorae at Anwurat.
 Nangael::A fiefdom of Ce Tydonn, located along the Swa Marches. Nangael warriors can be readily identified by their tattooed cheeks.
-Nanor-Ukkerja I::(1378-1556)—“Hammer of Heaven” (Kûniüric from Umeritic nanar hukisha) The first Anasûrimbor High King, whose defeat of the Scintya in 1408 would lead to the founding of Kûniüri and begin what most scholars regard as the longest-reigning dynasty in recorded history.
+Nanor-Ukkerja I, Nanor-Ukkerja::(1378-1556)—“Hammer of Heaven” (Kûniüric from Umeritic nanar hukisha) The first Anasûrimbor High King, whose defeat of the Scintya in 1408 would lead to the founding of Kûniüri and begin what most scholars regard as the longest-reigning dynasty in recorded history.
 Nansur::See Nansur Empire.
 Nansur Empire::A nation of the Three Seas and self-proclaimed inheritor to the Ceneian Empire. At the height of its power the Nansur Empire extended from Galeoth to Nilnamesh, but it has been much reduced by centuries of warfare against the Fanim Kianene.    Though the Nansur Empire has witnessed its fair share of usurpers, palace revolts, and short-lived military dictatorships, it has enjoyed a remarkable degree of dynastic stability. It was under the Trimus Emperors (3411-3508) that the “Nansur” (the traditional name for the district surrounding Momemn) emerged from the chaos following Cenei’s destruction to unify the Kyranae plains. But true Imperial expansion did not occur until the Zerxei Dynasty (3511-3619), which, under the rule of successive and short-lived Emperors, managed to conquer Shigek (3539), Enathpaneah (3569), and the Sacred Lands (3574).    Under the Surmante Emperors (3619-3941), the Nansurium enjoyed its greatest period of growth and military ascendancy, culminating in the rule of Surmante Xatantius I (3644-93), who subdued the Cepaloran tribes as far north as the Vindauga River, and who even managed to capture the ancient Nilnameshi capital of Invishi, thus very nearly restoring all the so-called Western Empire that had once belonged to Cenei. But his practice of debasing the talent in order to finance his endless wars fairly wrecked the empire’s economy. By the time Fan’oukarji I embarked on his White Jihad in 3743, the empire still had not recovered from Xatantius’s excesses. His Surmante descendants found themselves embroiled in never-ending wars they could ill afford, let alone win. Scarce resources and an intransigent commitment to the Ceneian model of warfare, which seemed incapable of coping with Kianene tactics, conspired to render the empire’s decline an inevitability.   The dynasty of the most recent claimants to the Imperial Mantle, the Ikurei, arose as the result of a coup brought about by the turmoil following the loss of Shigek to the Kianene in 3933 (in the so-called Dagger Jihad of Fan’oukarji III). A former Exalt-General, Ikurei Sorius I reorganized both the Imperial Army and the empire, changes that allowed him and his descendants to defeat no fewer than three full-scale Fanim invasions. The Nansur Empire has enjoyed a precarious stability ever since, though it remains continually fearful of the prospect that the Scylvendi tribes might unite once again.
 Nansurium::See Nansur Empire.
-Narradha, Hringa Narradha::(4093-4111)—The youngest brother of Prince Hringa Skaiyelt, slain at Mengedda.
+Hringa Narradha, Narradha::(4093-4111)—The youngest brother of Prince Hringa Skaiyelt, slain at Mengedda.
 Nascenti::The nine primary disciples of Anasûrimbor Kellhus, the so-called “Thanes of the Warrior-Prophet.”
 Nasueret Column::Also known as the “Ninth Column.” A Column of the Nansur Imperial Army, traditionally stationed on the Kianene frontier. Their device is the Black Imperial Sun halved by an eagle’s wing.
 Nau-Cayûti::(2119-40)—“Blessed Son” (Umeritic) The youngest son of Celmomas II and the famed “scourge of Golgotterath.” NauCayûti is famed for his heroism and martial brilliance during the dark days after the fall of Aörsi (2136), when Kûniüri stood alone against Golgotterath. Many of his exploits, such as the Slaying of Tanhafut the Red and the Theft of the Heron Spear, are recounted in The Sagas.
 Naures River::An important river system in eastern Nilnamesh.
-Nautzera, Seidru Nautzera::(4038- )—A senior member of the Mandate Quorum. See Mandate, School of.
+Seidru Nautzera, Seidru, Nautzera::(4038- )—A senior member of the Mandate Quorum. See Mandate, School of.
 Near Antiquity::Sometimes called the Ceneian Age. The historical period beginning in 2155 (the end of the Apocalypse) and ending with the Sack of Cenei in 3351. See Far Antiquity.
 Neleöst Sea::A large inland sea located in northwestern Eärwa that formed the traditional northern frontier for those nations arising from the Aumris River Valley.
 Nenciphon::The administrative capital of Kian, and one of the great cities of the Three Seas, founded by Fan’oukarji I in 3752.
@@ -577,7 +577,7 @@ Neuropuncture::The Dûnyain art of producing various behaviours by probing the e
 Ngarau::(4062- )—The Grand Seneschal to Ikurei Xerius III.
 Nil’giccas::(?- )—The Nonman King of Ishterebinth.
 Nilnamesh::A populous Ketyai nation on the extreme southwest edge of the Three Seas, famed for its ceramics, spices, and stubborn refusal to relinquish its exotic versions of Kiünnat either to Inrithism or to Fanimry. Primarily for geographical reasons, the fertile plains to the south of the Hinayati Mountains have long enjoyed cultural and political independence from the Three Seas. Casidas was the first to remark that the Nilnameshi were an “inward people,” both in the sense of their obsession with the plight of their souls and in their utter disdain for outland Princes. Only two periods in their history cut against this tendency. The first is the Old Invishi period (1023-1572), when Nilnamesh was united under a series of aggressively expansionist Kings based in Invishi, which is now the traditional spiritual capital of Nilnamesh. In 1322 and then again in 1326, Anzumarapata II inflicted crushing defeats on the Shigeki, and for some thirty years compelled tribute from the proud river kingdom. Then, in 2483, Sarnagiri V, leading a coalition of Princes, was routed by Triamis the Great, and Nilnamesh found itself a province (albeit an unruly one) for more than a thousand years. The era following the collapse of the Ceneian Empire is commonly called the New Invishi period, though none of the ancient city’s Kings has been able to hold more than a fraction of Nilnamesh for more than a generation.
-Nimeric, Anasûrimbor Nimeric::(2092-2135)—The High King of ancient Aörsi before its destruction in the Apocalypse. See Apocalypse.
+Anasûrimbor Nimeric, Nimeric::(2092-2135)—The High King of ancient Aörsi before its destruction in the Apocalypse. See Apocalypse.
 nimil::The Nonmen steel forged in the sorcerous furnaces of Ishterebinth.
 Nincaerû-Telesser::(c. 549-642)—The fourth God-King of the Umeri Empire, and famed patron of the ancient Gnostic Schools.
 Nin-Ciljiras::(?- )—The last surviving Nonman King.
@@ -590,17 +590,17 @@ Nonmen::At one time the pre-eminent race of Eärwa, but now much reduced. The No
 Nonmen Tutelage::The great period of Norsirai-Cûnuroi trade, education, and strategic alliances, beginning in 555 and ending with the Expulsion in 825 (following the famed Rape of Omindalea).
 Norsirai::The typically blond-haired, blue-eyed, fair-skinned race predominantly concentrated along the northern fringe of the Three Seas, although they once ruled all the lands north to the Yimaleti Mountains. One of the Five Tribes of Men.
 noschi::A Kûniüric term meaning “source of light,” but used in the sense of “genius” as well.
-Noshainrau the White::(c.1005-72)—The founding Grandmaster of the Sohonc and author of the Interrogations, the first elaboration of the Gnosis by Men.
+Noshainrau the White::, Noshainrau(c.1005-72)—The founding Grandmaster of the Sohonc and author of the Interrogations, the first elaboration of the Gnosis by Men.
 Nron::A minor island nation of the Three Seas, nominally independent but in fact dominated by the School of Mandate in Atyersus.
 Nroni::The language of Nron, a derivative of Sheyo-Kheremic.
 Numaineiri::A populous and fertile fiefdom of interior Ce Tydonn, located to the west of Meigeiri. Numaineiri warriors are known to paint their faces red whenever they believe themselves doomed in battle.
 number-sticks::A means of generating random numerical results for the purposes of gambling. The first references to number-sticks reach as far back as ancient Shigek. The most common variations consist of two sticks typically referred to as the Fat and the Skinny. A groove is carved all the way through the Fat so that the Skinny can drop up and down its interior length. The Skinny is then capped on either end to prevent it from falling out. Numerical values are marked along the length of the Fat, so that when the sticks are thrown, the Skinny can indicate a result.
-Numemarius, Thallei Numemarius::(4069-4111)—The Patridomos of House Thallei, and General of the Kidruhil until his death in Nagogris.
+Thallei Numemarius, Thallei, Numemarius::(4069-4111)—The Patridomos of House Thallei, and General of the Kidruhil until his death in Nagogris.
 Nymbricani::A tribe of Norsirai pastoralists who range southern Cepalor.
 Nyranisas Sea::The easternmost of the Three Seas.
 
-Oknai One-Eye::(4053-4110)—The inveterate chieftain of the Munuäti, a powerful federation of Scylvendi tribes.
-Okyati urs Okkiür::(4038-82)—The cousin of Cnaiür urs Skiötha, who first brought Anasûrimbor Moënghus as a captive to the Utemot camp in 4080.
+Oknai One-Eye, Oknai::(4053-4110)—The inveterate chieftain of the Munuäti, a powerful federation of Scylvendi tribes.
+Okyati urs Okkiür, Okyati, Okkiür::(4038-82)—The cousin of Cnaiür urs Skiötha, who first brought Anasûrimbor Moënghus as a captive to the Utemot camp in 4080.
 Old Ainoni::The language of Ceneian Ainon, a derivative of Ham-Kheremic.
 Old Father::An epithet used by skin-spies to describe their Consult makers.
 Old Meöric::The lost language of the early Meöri Empire, a derivative of Nirsodic.
@@ -610,13 +610,13 @@ Old Scylvendi::The language of ancient Scylvendi pastoralists, a derivative of S
 Old Zeümi::The language of Angka (ancient Zeüm), a derivative of Ankmuri.
 Olekaros::(2881-2956)—A Ceneian slave-scholar of Cironji descent, famed for his Avowals.
 omen-texts::The traditional indexes, usually specific to each of the Cults, detailing the various omens and their meaning.
-Omiri urs Xunnurit::(4089-4111)—The lame daughter of Xunnurit and wife of Yursalka.
+Omiri urs Xunnurit, Omiri::(4089-4111)—The lame daughter of Xunnurit and wife of Yursalka.
 Oncis Sea::The westernmost of the Three Seas.
 111 Aphorisms::A minor work of Ekyannus VIII, consisting of 111 aphorisms that primarily deal with matters of faith and integrity.
 one lamb for ten bulls::A saying that refers to the relative difference in value between a witting and an unwitting sacrificial victim.
 Onkis::The Goddess of hope and aspiration. One of the so-called Compensatory Gods, who reward devotion in life with paradise in the afterlife, Onkis draws followers from all walks of life, though rarely in great numbers. She is only mentioned twice in the Higarata, and in the (likely apocryphal) Parnishtasshe is portrayed as a prophetess, not of the future, but of the motivations of Men. The so-called “shakers” belong to an extreme branch of the Cult, where the devotees ritually strive to be “possessed” by the Goddess. Her symbol is the Copper Tree (which also happens to be the device of the legendary Nonman Mansion of Siol, though no link has been established).
 Only the Few can see the Few::The traditional expression used to refer to the unique ability of sorcerers to “see” both the practitioners and the products of sorcery.
-Onoyas II, Nersei Onoyas II::(3823-78)—The King of Conriya who first forged the alliance between the School of Mandate and House Nersei.
+Nersei Onoyas II, Onoyas II, Onoyas::(3823-78)—The King of Conriya who first forged the alliance between the School of Mandate and House Nersei.
 onta::The name given by the Schools to the very fabric of what is.
 On the Carnal::The most famous of Opparitha’s exhortatory works, popular among lay readers though widely derided by Three Seas intellectuals.
 On the Folly of Men::The magnum opus of the famed satirist Ontillas.
@@ -630,25 +630,25 @@ Osbeus::A basalt quarry used in Near and Far Antiquity, located near the ruins o
 Osthwai Mountains::A major mountain range located in central Eärwa.
 Oswenta::The administrative and commercial capital of Galeoth, located on the north coast of Lake Huösi.
 Other Voice::The name given to the “voice” used to communicate in all Cants of Calling.
-Othrain, Eorcu Othrain::(4060-4111)—The Tydonni Earl of Numaineiri, slain at Mengedda.
-Ottma, Cwithar Ottma::(4073- )—One of the Nascenti, formerly a Tydonni thane.
+Eorcu Othrain, Eorcu, Othrain::(4060-4111)—The Tydonni Earl of Numaineiri, slain at Mengedda.
+Cwithar Ottma, Cwithar, Ottma::(4073- )—One of the Nascenti, formerly a Tydonni thane.
 Outside::That which lies beyond the World. Most commentators follow Ajencis’s so-called Dyadic Theory when characterizing the World and its relation to the Outside. In Meta-Analytics, Ajencis argues that it is the relation between subject and object, desire and reality, that underwrites the structure of existence. The World, he argues, is simply the point of maximal objectivity, the plane where the desires of individual souls are helpless before circumstance (because it is fixed by the desire of the God of Gods). The many regions of the Outside then represent diminishing levels of objectivity, where circumstances yield more and more to desire. This, he claims, is what defines the “spheres of dominance” of Gods and demons. As he writes, “the greater will commands.” The more powerful entities of the Outside dwell in “sub-realities” that conform to their desires. This is what makes piety and devotion so important: the more favour an individual can secure in the Outside (primarily through the worship of Gods and the honouring of ancestors), the greater the chance of finding bliss rather than torment in the afterlife.
 Over-Standard::The sacred military standard of the Nansur Exalt-General, decorated with the disc-shaped breastplate of Kuxophus II, the last of the ancient Kyranean High Kings. Imperial Columnaries often refer to it as “the Concubine.”
 
 Paäta::(4062-4111) A body-slave belonging to Krijates Xinemus, slain in Khemema.
 Padirajah::The traditional title of the ruler of Kian.
 Palpothis::One of the famed Ziggurats of Shigek, named after Palpothis III (622-78), the Old Dynasty God-King who raised her.
-Panteruth urs Mutkius::(4075-4111)—A Scylvendi of the Munuäti tribe.
+Panteruth urs Mutkius, Panteruth, Mutkius::(4075-4111)—A Scylvendi of the Munuäti tribe.
 Parrhae Plains::A region of fertile tablelands located in northwestern Galeoth.
 Pasna::A town on the River Phayus, known for the quality of its olive oil.
 pembeditari::A common pejorative used for camp prostitutes, meaning “scratchers.”
 pemembis::A wild bush prized for its fragrant blue blooms.
 peneditari::A common name given to camp prostitutes, meaning “long-walkers.”
 perrapta::A traditional Conriyan liquor, often used to inaugurate meals.
-Persommas, Hagum Persommas::(4078- )—One of the Nascenti, formerly a Nansur blacksmith.
+Hagum Persommas, Hagum, Persommas::(4078- )—One of the Nascenti, formerly a Nansur blacksmith.
 Pharixas::A disputed island stronghold in the Meneanor Sea.
 Phayus River::The primary river system of the Kyranae Plains, draining the south central Hethanta Mountains and emptying into the Meneanor Sea.
-Pherokar I::(3666-3821)—One of Kian’s earliest and fiercest Padirajahs.
+Pherokar I, Pherokar::(3666-3821)—One of Kian’s earliest and fiercest Padirajahs.
 pick::A derogatory term often used by Norsirai when referring to Ketyai. The word comes from the Tydonni pikka, or “slave,” but has come to have broader, racial connotations.
 Pilaskanda::(4060- )—The King of Girgash and a tributary ally of the Kianene Padirajah.
 Pirasha::An old Sumni whore befriended by Esmenet.
@@ -664,11 +664,11 @@ Principle of Before and After::Also known as the Empirical Priority Principle. S
 Proadjunct::The highest non-commissioned rank in the Imperial Nansur Army.
 Probability Trance::A meditation technique used by the Dûnyain to assess consequences of hypothetical acts in order to determine the course of action that will most effectively allow them to master their circumstances.
 Prophet of the Tusk::The name given to the prophets depicted in The Chronicle of the Tusk.
-Prophilas, Harus Prophilas::(4064- )—The commander of Asgilioch.
+Harus Prophilas, Harus, Prophilas::(4064- )—The commander of Asgilioch.
 Protathis::(2870-2922)—A famed near antique poet of Ceneian descent, celebrated for many works, including The Goat’s Heart, One Hundred Heavens, and the magisterial Aspirations. Protathis is regarded by many as the greatest Ketyai poet.
 Proto-Caro-Shemic::The language group of the ancient pastoralists of the Eastern Carathay Desert, a derivative of Shemic.
-Psailas II::(4009-86)—The Shriah of the Thousand Temples from 4072 to 4086.
-Psammatus, Nentepi Psammatus::(4059- )—A Sumni Shrial priest of Shigeki descent, and regular customer of Esmenet’s.
+Psailas II, Psailas::(4009-86)—The Shriah of the Thousand Temples from 4072 to 4086.
+Nentepi Psammatus, Nentepi, Psammatus::(4059- )—A Sumni Shrial priest of Shigeki descent, and regular customer of Esmenet’s.
 Psûkalogues::—The magnum opus of Imparrhas, sorcerer of the Imperial Saik and esoteric metaphysician primarily interested in the Psûkhe of the Cishaurim.
 psûkari::Practitioners of the Psûkhe.
 Psûkhe::The arcane practice of the Cishaurim, much like sorcery, though cruder in its exercise, and distinguished by its invisibility to the Few. See sorcery.
@@ -677,7 +677,7 @@ Quandary of Man::The classic Dûnyain problem referring to the fact that Men, th
 Quorum::The ruling council of the Mandate.
 Quya::The generic name for Nonmen Magi.
 Rash::(4073-4112)—The nickname of Houlta, a caste-menial Zaudunyani agitator, slain in the Battle of Caraskand.
-Rauschang, Hringa Rauschang::(4054- )—The King of Thunyerus and father of Skaiyelt and Hulwarga.
+Hringa Rauschang, Rauschang::(4054- )—The King of Thunyerus and father of Skaiyelt and Hulwarga.
 Restored Empire::For some in Nansur, the cherished goal of restoring all the “lost provinces” (the territories seized by the Kianene) to the Nansur Empire.
 Ring Mountains::The range that encircles Golgotterath.
 Rite-of-the-Spring-Wolves::A rite of passage marking the transition of Scylvendi adolescent boys to manhood.
@@ -699,19 +699,19 @@ Sapatishah-Governor::The title of the regional, semi-autonomous rulers of the va
 Sapatishah’s Palace::The name given by the Men of the Tusk to Imbeyan’s palace in Caraskand, located on the Kneeling Heights.
 Sapmatari::The lost language of Nilnameshi labouring castes, a derivative of Vaparsi.
 Sappathurai::A powerful mercantile city in Nilnamesh.
-Sarcellus, Cutias Sarcellus::(4072-99)—A Knight-Commander of the Shrial Knights, murdered and replaced by Consult skin-spies.
+Cutias Sarcellus, Cutias, Sarcellus::(4072-99)—A Knight-Commander of the Shrial Knights, murdered and replaced by Consult skin-spies.
 Sareotic Library::In the time of the Ceneian Empire, one of the greatest libraries in the known world. The so-called “script law” of Iothiah forced, on punishment of death, all visitors bearing books to surrender them for copying and inclusion in the Library. Though the Sareots were massacred when Shigek fell to the Fanim in 3933, Padirajah Fan’oukarji III spared the Library, thinking it the will of the Solitary God.
-Sarothesser I::(3317-3402)—The founder of High Ainon, who overthrew the yoke of the Ceneian Empire in 3372 and ascended the Assurkamp Throne as the first Ainoni King.
+Sarothesser I, Sarothesser::(3317-3402)—The founder of High Ainon, who overthrew the yoke of the Ceneian Empire in 3372 and ascended the Assurkamp Throne as the first Ainoni King.
 Sasheoka::(4049-4100)—The Grandmaster of the Scarlet Spires, assassinated in 4100 by the Cishaurim for reasons unknown, and predecessor to Eleäzaras.
 Saskri River::A major river system in Eumarna, with headwaters in Eshgarnea and draining the Jahan Plains.
-Sassotian, Pomarius Sassotian::(4058-4111)—The General of the Imperial Fleet during the First Holy War, slain at the Battle of Trantis Bay.
+Pomarius Sassotian, Pomarius, Sassotian::(4058-4111)—The General of the Imperial Fleet during the First Holy War, slain at the Battle of Trantis Bay.
 Sathgai::The Norsirai name for Uthgai, Chieftain of the Utemot and legendary Scylvendi King-of-Tribes, who led the People under the No-God during the Apocalypse.
 Satiothi::The language group of the Satyothi peoples.
 Satyothi::The black-haired, green-eyed, black-skinned race predominantly concentrated in the nation of Zeüm and the southern extremities of the Three Seas. One of the Five Tribes of Men.
-Saubon, Coithus Saubon::(4069- )—The seventh son of King Coithus Eryeat of Galeoth and titular leader of the Galeoth contingent of the Holy War.
+Coithus Saubon, Saubon::(4069- )—The seventh son of King Coithus Eryeat of Galeoth and titular leader of the Galeoth contingent of the Holy War.
 Sauglish::One of the four great ancient cities of the Aumris Valley, destroyed in the Apocalypse in 2147. From the early days of the Nonmen Tutelage, Sauglish was established as the intellectual capital of the Ancient North, home to the first Gnostic Schools and to the Great Library of Sauglish. See Library of Sauglish and Apocalypse.
 Sayut River::One of the great rivers of Eärwa, originating in the Southern Great Kayarsus and draining into the Nyranisas.
-Scaralla, Hepma Scaralla::(4056-4111)—The ranking high priest of Akkeägni during the First Holy War, taken by disease at Caraskand.
+Hepma Scaralla, Hepma, Scaralla::(4056-4111)—The ranking high priest of Akkeägni during the First Holy War, taken by disease at Caraskand.
 Scarlet Magi::A name for Schoolmen belonging to the Scarlet Spires.
 Scarlet Spires::The most powerful School of the Three Seas and de facto ruler of High Ainon. The roots of the Scarlet Spires reach as far back as ancient Shir (to this day traditionalists within the School refer to themselves as the “shiradi”). In many ways the development of the Scarlet Spires exemplifies the development of every Three Seas School, that of loose networks of sorcerous practitioners becoming progressively more organized and insular in the face of chronic, religiously motivated persecution. Originally called the Surartu—“Hooded Singers” (Ham-Kheremic) —the Scarlet Spires secured the river fortress of Kiz in Carythusal c. 1800, and emerged from the chaos surrounding the Apocalypse, the collapse of Shir, and the Great Pestilence as one of the most powerful factions in ancient Ainon. Sometime around 2350, Kiz was severely damaged in an earthquake and subsequently covered with red enamel tiles in the reconstruction, thus leading to the School’s now-famous moniker.
 Scholastic Wars::A series of holy wars waged against the Schools from 3796 to 3818. Called by Ekyannus XIV, the Scholastic Wars saw the near-destruction of several Schools and the beginning of the Scarlet Spires’ hegemony over High Ainon.
@@ -719,7 +719,7 @@ Schoolmen::Sorcerers belonging to the Schools.
 Schools::Given the Tusk’s condemnation of sorcery, the first Schools, in both the Ancient North and the Three Seas, arose out of the need for protection. The so-called “Major Schools” of the Three Seas are the Circle of Nibel, the Imperial Saik, the School of Mandate, the Mysunsai, and the Scarlet Spires. The Schools are among the oldest institutions in the Three Seas, surviving, by and large, both because of the terror they inspire and by their detachment from the secular and religious powers of the Three Seas. With the exception of the Mysunsai, all the Major Schools predate the fall of the Ceniean Empire.
 Scindia::The Scylvendi-dominated land to the immediate west of the Hethanta Mountains.
 Scorpion Braid::A mummer’s trick, consisting of a rope soaked in a poison that makes the jaws and claws of scorpions seize when they grasp it.
-Scoulas, Biaxi Scoulas::(4075-4111)—The secondKnight-Commander of the Shrial Knights, slain at Mengedda.
+Biaxi Scoulas, Scoulas::(4075-4111)—The secondKnight-Commander of the Shrial Knights, slain at Mengedda.
 Scuäri Campus::The main parade ground of the Imperial Precincts in Momemn.
 Sculpa River::The northernmost of the three major river systems draining into Lake Huösi.
 Scylvendi::The dark-haired, pale-blue-eyed, and fair-skinned race predominantly concentrated in and around the Jiünati Steppe. One of the Five Tribes of Men.
@@ -738,7 +738,7 @@ Seswatha’s Heart::The mummified heart of Seswatha, which is the key artifact i
 Setpanares::(4059-4111)—The General in command of the Ainoni contingent of the First Holy War, slain by Cinganjehoi at Anwurat.
 Shaeönanra::(c. 1086- )—“Gift of Light” (Umeritic) The Grandvizier of the Mangaecca who, according to legend, went mad studying the Incû-Holoinas, and whose subsequent acts would eventually see him convicted of impiety and his School outlawed in 1123. The greatest prodigy of his age, Shaeönanra claimed to have rediscovered a means of saving the souls of those damned by sorcery. He reputedly spent his life investigating various soul-trapping sorceries in the hope of avoiding passage to the Outside—and to great effect, given that he allegedly continues to live some three thousand years afterward, though in an obscene and unnatural manner. By the fourteenth century the Trysean annals began referring to him as Shauriatas, the “Cheater of Gods.”
 Shakers::The name given to extreme devotees of Onkis who claim that their fits of shaking are the result of divine possession.
-Shanipal, Kemrates Shanipal::(4066- )—The Baron of Hirhamet, a district in south central Conriya.
+Kemrates Shanipal, Kemrates, Shanipal::(4066- )—The Baron of Hirhamet, a district in south central Conriya.
 Shaul River::The second most important river system in the Nansur Empire, after the Phayus.
 Shauriatas::(c. 1086- )—“Cheater of Gods” (Umeritic) See Shaeönanra.
 Shelgal::(?-?)—One of the Chieftain-Kings named in the Tusk.
@@ -765,41 +765,41 @@ Shrial Priests::Inrithi clerics who, as opposed to Cultic Priests, are part of t
 Shrial Remission::A writ issued by the Thousand Temples absolving an individual of sin. Remissions are commonly awarded to those who accomplish some act of penance, such as joining a pilgrimage or a sanctioned war against unbelievers. Historically, however, they are primarily sold.
 Shrial Warrant::A writ issued by the Thousand Temples authorizing the arrest of an individual for the purpose of trial in the ecclesiastical courts.
 Sign of Gierra::The twin serpents that Sumni harlots must have tattooed on the back of their left hand, apparently in imitation of the Priestesses of Gierra.
-Simas, Polchias Simas::(4052- )—Achamian’s old teacher and a member of the Quorum, the ruling council of the School of Mandate.
+Polchias Simas, Polchias, Simas::(4052- )—Achamian’s old teacher and a member of the Quorum, the ruling council of the School of Mandate.
 Sinerses::(4076- )—A Shield-Captain of the Javreh and favourite of Hanamanu Eleäzaras.
 Singer-in-the-Dark::See Onkis.
 Siqu::Generally, the term referring to Nonmen who find themselves in the service of Men, usually as mercenaries or in some advisory capacity. Specifically, those Nonmen who participated in the so-called Nonmen Tutelage from 555 to 825. See Nonmen Tutelage.
-Sirol ab Kascamandri::(4004- )—The youngest daughter of Kascamandri ab Tepherokar.
+Sirol ab Kascamandri, Sirol::(4004- )—The youngest daughter of Kascamandri ab Tepherokar.
 Skafadi::A Kianene name for the Scylvendi.
 Skafra::One of the principal Wracu, or Dragons, of the Apocalypse, finally slain by Seswatha at Mengedda in 2155.
 Skagwa::A fiefdom on the Thunyeri Sranc Marches.
-Skaiyelt, Hringa Skaiyelt::(4073-4111)—The eldest son of King Rauschang of Thunyerus and leader of the Thunyeri contingent of the Holy War. Claimed by disease at Caraskand.
+Hringa Skaiyelt, Skaiyelt::(4073-4111)—The eldest son of King Rauschang of Thunyerus and leader of the Thunyeri contingent of the Holy War. Claimed by disease at Caraskand.
 Skalateas::(4069-4111)—A member of the Mysunsai School, murdered in the Ansercan countryside by the Scarlet Spires.
-Skauras ab Nalajan, Skauras::(4052-4111)—The Sapatishah-Governor of Shigek and the first principal antagonist of the First Holy War, slain at Anwurat. A veteran of many wars, he was deeply respected by both his allies and his enemies. The Nansur called him Sutis Sutadra, the “Southern Jackal,” because of his Black Jackal standard.
+Skauras ab Nalajan, Skauras, Nalajan::(4052-4111)—The Sapatishah-Governor of Shigek and the first principal antagonist of the First Holy War, slain at Anwurat. A veteran of many wars, he was deeply respected by both his allies and his enemies. The Nansur called him Sutis Sutadra, the “Southern Jackal,” because of his Black Jackal standard.
 Skavric::The language group of the Scylvendi peoples.
 Skettic::The language group of ancient pastoralists of the Far Istyuli Plains, a derivative of Nirsodic.
-Skilura II::(3619-68)—Also called “the Mad.” The most cruel of the Surmante Emperors of Nansur, whose deranged antics led to the Granary Revolts of 3668 and the accession of Surmante Xatantius I to the Mantle.
-Skiötha urs Hannut, Hannut::(4038-79)—The father of Cnaiür urs Skiötha, and former Chieftain of the Utemot.
+Skilura II, Skilura::(3619-68)—Also called “the Mad.” The most cruel of the Surmante Emperors of Nansur, whose deranged antics led to the Granary Revolts of 3668 and the accession of Surmante Xatantius I to the Mantle.
+Skiötha urs Hannut, Hannut, Skiötha::(4038-79)—The father of Cnaiür urs Skiötha, and former Chieftain of the Utemot.
 Skogma::An ancient Wracu thought destroyed during the Cûno-Inchoroi Wars.
 Skuthula the Black::An ancient Wracu spawned during the Cûno-Inchoroi Wars, one of the few Dragons known to have survived the Apocalypse, though his present whereabouts are unknown.
 Snakeheads::An Inrithi epithet for the Cishaurim.
 Sobel::An abandoned province north of Atrithau.
-Sodhoras, Nersei Sodhoras::(4072-4111)—A Conriyan Baron and cousin of Prince Nersei Proyas.
+Nersei Sodhoras, Sodhoras::(4072-4111)—A Conriyan Baron and cousin of Prince Nersei Proyas.
 Sogian Way::A Nansur coastal road first constructed in the age of Kyraneas.
 Solitary God::“Allonara Yulah” (Kianni) The name used by Fanim to denote the transcendent singularity of their supreme deity. According to Fanim tradition, the God is not, as the Inrithi claim, immanent in existence, nor is He manifold in the way described by the Latter Prophet.
-Sompas, Biaxi Sompas::(4068- )—The General of the Kidruhil following the death of General Numemarius in Nagogris. Sompas is the eldest son of Biaxi Coronsas, Patridomos of House Biaxi.
+Biaxi Sompas, Sompas::(4068- )—The General of the Kidruhil following the death of General Numemarius in Nagogris. Sompas is the eldest son of Biaxi Coronsas, Patridomos of House Biaxi.
 Sorainas::(3808-95)—A celebrated Nansur scriptural commentator, and author of The Book of Circles and Spirals.
 sorcerer of rank::Though practices differ extensively between Schools, generally the title given to a sorcerer who is qualified to teach sorcery to another.
 Sorcerers of the Sun::A common epithet for the Imperial Saik. See Saik.
 sorcery::The practice of making the world conform to language, as opposed to philosophy, the practice of making language conform to the world. Despite the tremendous amount of apparently unresolvable controversy surrounding sorcery, there are several salient features that seem universal to its practice. First, practitioners must be able to apprehend the “onta,” which is to say, they must possess the innate ability to see, as Protathis puts it, “Creation as created.” Second, sorcery also seems to involve a universal commitment to what Gotagga calls “semantic hygiene.” Sorcery requires precise meanings. This is why incantations are always spoken in a non-native tongue: to prevent the semantic transformation of crucial terms due to the vagaries of daily usage. This also explains the extraordinary “double-think” structure of sorcery, the fact that all incantations require the sorcerer to say and think two separate thingssimultaneously. The spoken segment of an incantation (what is often called the “utteral string”) must have its meaning “fixed” or focused with a silent segment (what is often called the “inutteral string”) that is simultaneously thought. Apparently the thought incantation sharpens the meaning of the spoken incantation the way the words of one man may be used to clarify the words of another. (This gives rise to the famous “semantic regress problem”: how can the inutteral string, which admits different interpretations, serve to fix the proper interpretation of the utteral string?) Though there are as many metaphysical interpretations of this structure as there are sorcerous Schools, the result in each case is the same: the world, which is otherwise utterly indifferent to the words of Men, listens, and sorcerous transformations of reality result.
 Soroptic::The lost language of ancient Shigek, a derivative of Kemkaric.
-Soter, Nurbanu Soter::(4069- )—The Palatine of the Ainoni district of Kishyat.
+Nurbanu Soter, Nurbanu, Soter::(4069- )—The Palatine of the Ainoni district of Kishyat.
 “[The] soul that encounters Him passes no further.”::A line from The Sagas referring to the Battleplain and the belief that all those who perish there remain trapped.
 Southern Columns::Those divisions of the Imperial Nansur Army stationed on the Kianene frontier.
 Southron Gates::The series of passes through the Unaras Spur guarded by Asgilioch.
 Sranc::The violent, inhuman creatures first created by the Inchoroi as instruments of war against the Nonmen. According to the Isûphiryas, the Sranc are one of the “Weapon Races” created by the Inchoroi to prosecute their war of extermination against the Nonmen and their Emwama slaves.  The motivations of the Sranc seem to be as base as imaginable, in that they seem to find sexual gratification in acts of violence. There are innumerable accounts of the indiscriminate rape of men, women, children, and even corpses. They seem to know nothing of mercy or honour, and though they do take prisoners, very few are known to have survived captivity, which is said to be savage beyond imagining.    They reproduce rapidly. Though no outward physical differences are readily visible, female Sranc seem to have roles identical to those of male Sranc. Apparently, a great number of Sranc in various stages of pregnancy were observed in battle over the course of the Apocalypse. Though generally inferior to Men in individual combat, they are ideal logistically, as they are able to live for sustained periods on little more than grubs and insects. Survivors recount tales of vast tracts of ground overturned and rooted by passing Sranc hordes. Under the command of the No-God they are utterly fearless, and seem to strike with unerring control and coordination. Typically, Sranc stand no higher than the average caste-menial’s shoulder. Their skin is devoid of pigment, and despite the refined—to the point of repulsiveness—beauty of their faces, their physiognomy is bestial (though hairless), with pinched shoulders and deep, almond-shaped breasts. They are exceedingly fast across both open and broken terrain, and their sheer viciousness is said to compensate for their slight stature. Mandate scholars are prone to make dire warnings about the present numbers of Sranc in Eärwa. Apparently the ancient Norsirai had reduced the Sranc, pressing them to the margins of Eärwa, and the No-God was still able to summon hosts that reportedly blackened the horizon. Now Sranc dominate half the continent.
 Sranc Pits::The famed gladiatorial arena of Carythusal, where human slaves are typically pitted against Sranc.
-Stajanas II::(2338-95)—The famed “Philosopher-Emperor” of Cenei, whose Ruminations has remained an important work in the Three Seas literary canon.
+Stajanas II, Stajanas::(2338-95)—The famed “Philosopher-Emperor” of Cenei, whose Ruminations has remained an important work in the Three Seas literary canon.
 Stalker::A common epithet for Husyelt.
 Steppe::See Jiünati Steppe.
 Subis::A once-fortified oasis in Khemema, frequented by caravans passing between Shigek and Eumarna.
@@ -831,9 +831,9 @@ Temple Prayer::Also referred to as the High Temple Prayer. The prayer, beginning
 Tendant’heras::An extensive fortress located on Nilnamesh’s frontier with Girgash and Kianene.
 Tertae Plains::The heavily cultivated alluvial plain bordering northeast Caraskand.
 tesperari::A Nansur term for naval captains who retire to command merchant ships.
-Thampis, Kemetti Thampis::(4076- )—A Conriyan Baron from the Anpleian frontier.
-Tharschilka, Heänar Tharschilka::(4068-4110)—The Galeoth Earl of Nergaöta, and one of the three leaders of the Vulgar Holy War.
-Therishut, Gishtari Therishut::(4067-4111)—A Conriyan Baron from the Ainoni frontier, murdered by persons unknown.
+Kemetti Thampis, Kemetti, Thampis::(4076- )—A Conriyan Baron from the Anpleian frontier.
+Heänar Tharschilka, Heänar, Tharschilka::(4068-4110)—The Galeoth Earl of Nergaöta, and one of the three leaders of the Vulgar Holy War.
+Gishtari Therishut, Gishtari, Therishut::(4067-4111)—A Conriyan Baron from the Ainoni frontier, murdered by persons unknown.
 Thesji Bowmen::An elite Kianene unit of Chorae archers.
 Third Analytic of Men::Regarded by many as Ajencis’s magnum opus, the Third Analytic interrogates the aspects of human nature that make knowledge possible, as well as the human weaknesses that make knowledge so difficult to attain. As Ajencis notes, “if all Men disagree on all matters, then most Men confuse deception for truth.” He investigates the reasons, not only for deception in general, but for the erroneous sense of conviction that sustains it, giving what has come to be called the “selfish knower” thesis, the idea that convenience, conditioning, and appeal (as opposed to evidence and rational argumentation) are the primary motivation for the beliefs of the vast majority.
 Thoti-Eännorean::The alleged mother tongue of all Men, and the language of The Chronicle of the Tusk.
@@ -847,7 +847,7 @@ Threesie::The name given to Nansur who sign on for a third fourteen-year term of
 Throseanis::(3256-3317)—A late Ceneian dramatist, famed for his Triamis Imperator, a dramatic account of the life of Triamis I, the greatest of the Ceneian Aspect-Emperors.
 Thunyeric::The language of Thunyerus, a derivative of Meoric.
 Thunyerus::A Norsirai nation of the Three Seas located on the northeastern coasts of the Meneanor Sea. According to Thunyeri legend, their peoples migrated down the length of the Wernma River, continually pressured by the Sranc tribes that largely rule the great forests of the Dameori Wilderness. For two hundred years the Thunyeri plied the Three Seas as pirates and raiders. Then, in 3987, after three generations of Inrithi missionaries had largely converted them from their traditional Kiünnat beliefs, the tribes elected their first King, Hringa Hurrausch, and began adopting the institutions of their Three Seas neighbours.
-Tirummas, Nersei Tirummas::(4075-4100)—The eldest brother of Nersei Proyas, and Crown Prince of Conriya until his death at sea in 4100.
+Nersei Tirummas, Tirummas::(4075-4100)—The eldest brother of Nersei Proyas, and Crown Prince of Conriya until his death at sea in 4100.
 Tokush::(4068-4111)—The Master of Spies to Ikurei Xerius III.
 topoi::Locations where the accumulation of trauma and suffering has frayed the boundaries between the World and the Outside.
 Tractate::The writings of Inri Sejenus and his disciples, forming the second part of the Inrithi scriptural canon. The Inrithi believe The Tractate to be the prophesied culmination of The Chronicle of the Tusk, an amendment of the Covenant of Gods and Men for the realities of a new age. Among its seventeen books are various accounts of the life of the Latter Prophet, many parables for the purposes of moral instruction, and Inri Sejenus’s own explanation of the “Intervention” he himself represents: that mankind, as it matures, will become more and more able to worship the God in His “singular multiplicity.” Given thatThe Tractate was written more as a testament to the divinity of Inri Sejenus’s vision than out of any real commitment to historical rigour, it is impossible to assess the veracity of the text. Zarathinius and, more recently, Fanim commentators have pointed out several glaring inconsistencies in the text, but nothing that Inrithi apologists have not been able to explain away.
@@ -857,10 +857,10 @@ Triamarius III::(3588-3619)—The last of the Zerxei Emperors of Nansur, murdere
 Triamic Walls::Caraskand’s outermost fortifications, raised by Triamis the Great in 2568.
 Triamis Imperator::The famed drama by Throseanis, based on events in the life of Triamis the Great.
 Triamis the Great::(2456-2577)—The first Aspect-Emperor of the Ceniean Empire, famed for his conquests and for declaring Inrithism the official state religion in 2505. See Ceneian Empire.
-Triaxeras, Hampei Triaxeras::(4072- )—The Captain of Ikurei Conphas’s bodyguard.
+Hampei Triaxeras, Triaxeras::(4072- )—The Captain of Ikurei Conphas’s bodyguard.
 Trimus, House Trimus::A Nansur House of the Congregate.
 Trinkets::See Chorae.
-Trondha, Safirig Trondha::(4076- )—A Galeoth thane, client to Earl Anfirig of Gesindal.
+Safirig Trondha, Safirig, Trondha::(4076- )—A Galeoth thane, client to Earl Anfirig of Gesindal.
 Trucian Dramas::The magnum opus of Xius, a near antique poet and playwright.
 Truth Room::An interrogation chamber located deep in the catacombs beneath the Andiamine Heights.
 Trysë::The ancient administrative capital of Kûniüri, destroyed in the Apocalypse in 2147. Arguably the greatest city of the Ancient North and, with the exception of Sauglish, Umerau, and Etrith, also the oldest.
@@ -871,9 +871,9 @@ Tusk::The premier holy artifact of both the Inrithi and Kiünnat traditions, and
 Twin Scimitars::The primary holy device of Fanimry, symbolizing the “Cutting Eyes” of the Solitary God.
 Tydonni::The language of Ce Tydonn, a derivative of Meoric.
 Tywanrae River::A major river system in north central Eärwa, draining the Gâl basin and emptying into the Cerish Sea.
-Uän, Samarmau Uän, Samarmau::(4001- )—One of the Dûnyain Pragma.
-Ukrummu, Madarezer Ukrummu::(4045-4111)—A sorcerer of rank in the Scarlet Spires, slain by Chorae at Anwurat.
-Ulnarta, Shaugar Ulnarta::(4071- )—One of the Nascenti, formerly a Tydonni thane.
+Samarmau Uän, Uän, Samarmau::(4001- )—One of the Dûnyain Pragma.
+Madarezer Ukrummu, Madarezer, Ukrummu::(4045-4111)—A sorcerer of rank in the Scarlet Spires, slain by Chorae at Anwurat.
+Shaugar Ulnarta, Shaugar, Ulnarta::(4071- )—One of the Nascenti, formerly a Tydonni thane.
 Umeri Empire::The first great nation of Men, encompassing the length of the River Aumris, founded after the overthrow of the Trysean God-Kings, c. 430. See Kûniüri.
 Umeritic::The lost language of ancient Umerau, a derivative of Aumri-Saugla.
 Umiaki::The name of the ancient eucalyptus tree located in the heart of the Kalaul in Caraskand, famed as the tree from which the Warrior-Prophet was hung on the Circumfix.
@@ -881,8 +881,8 @@ Umiaki::The name of the ancient eucalyptus tree located in the heart of the Kala
 Unaras Spur::The low mountain range that extends from the southern terminus of the Hethantas to the Meneanor coast, marking the geographical frontier between the Kyranae Plain and Gedea.
 Unclean::A name, derived from The Chronicle of the Tusk, commonly used by Inrithi as a pejorative for sorcerers.
 Unmasking Room::A chamber located in the labyrinth below Ishuäl where Dûnyain children are taught the connections between facial musculature and passions.
-Unswolka, Goeransor, Goeransor Unswolka::(4079- )—The Tydonni thane of Hagmeir in Numaineiri.
-Uranyanka, Sirpal, Sirpal Uranyanka::(4062- )—The Palatine-Governor of the Ainoni city of Moserothu.
+Goeransor Unswolka, Unswolka, Goeransor::(4079- )—The Tydonni thane of Hagmeir in Numaineiri.
+Sirpal Uranyanka, Uranyanka, Sirpal::(4062- )—The Palatine-Governor of the Ainoni city of Moserothu.
 Uroborian Circle::A so-called “artifactual Cant” used to prevent the utterance of sorcery and thought to turn on the same aporetic principles that make Chorae possible.
 Uroris::A constellation in the northern sky.
 Usgald::A fiefdom in the Galeoth interior.
@@ -897,7 +897,7 @@ Vault-of-the-Tusk::See Junriüma.
 Venicata::An Inrithi holy day celebrated in late spring, commemorating the so-called First Revelation of Inri Sejenus.
 Vindauga River::The westernmost of the three major river systems draining into Lake Huösi, and the primary geographical boundary between Galeoth and Cepalor.
 Vulgar Holy War::The name given to the first contingent of the Holy War to march against the Fanim.
-Wainhail, Swahon Wainhail, Wainhail::(4055-4111)—The Galeoth Earl of Kurigald, slain at Mengedda.
+Swahon Wainhail, Swahon, Wainhail::(4055-4111)—The Galeoth Earl of Kurigald, slain at Mengedda.
 war, unswaza,malk unswaza, yetrut, gaiwut, utmurzu, fira, angotma, utgirkoy, cnamturu, gobozkoy, mayutafiüri, trutu garothut, trutu hirthut::Scylvendi mode of war—Despite their illiteracy, the Scylvendi possess an extensive war nomenclature that provides them with a thorough understanding of battle and its psychological dynamics. They call battle otgai wutmaga, a “great quarrel,” wherein the point is to convince the foe of their defeat. The concepts central to the Scylvendi understanding of war are as follows: unswaza—envelopment malk unswaza—defensive envelopment yetrut—penetration gaiwut—shock utmurzu—cohesion fira—speed angotma—heart utgirkoy—attrition cnamturu—vigilance gobozkoy—moment of decision mayutafiüri—ligaments of conflict trutu garothut—flexible unit cohesion (literally, “men of the long chain”) trutu hirthut—inflexible unit cohesion (literally, “men of the short chain”)
 War-Cants::The Gnostic sorceries developed in Sauglish (primarily by Noshainrau the White) for the express purpose of waging war and overcoming opposing sorcerers.
 Wards::The name given to defensive sorceries in contradistinction to offensive sorceries, or Cants. See sorcery. The most common types of Wards (found in both Anagogic and Gnostic sorceries) are: Wards of Exposure, which provide advance warning of intruders or imminent attacks; Shield-Wards, which provide direct protection against offensive sorceries; and Skin-Wards, which provide “protection of last resort” against all types of threat.
@@ -905,8 +905,8 @@ Warnute::A fiefdom of Ce Tydonn, one of the so-called Deep Marches of the Upper 
 “war of word and sentiment”::The explanation of jnan found in Byantas’s Translations.
 Wathi Doll::A sorcerous artifact common to Sansori witches, also known as a “murder doll,” either because a human sacrifice is required for its manufacture (a soul is imprisoned as the artifact’s animus) or because the Dolls are often used as remote assassins.
 Werigda::A Norsirai tribe from the Plains of Gâl.
-Werijen Greatheart, Rilding Werijen Greatheart, Rilding, Werijen, Greatheart::(4063- )—The Tydonni Earl of Plaideöl.
-Werjau, Sainhail Werjau, Sainhail, Werjau::(4070- )—One of the Nascenti, formerly a Galeoth thane.
+Rilding Werijen Greatheart, Werijen Greatheart, Rilding, Werijen, Greatheart::(4063- )—The Tydonni Earl of Plaideöl.
+Sainhail Werjau, Sainhail, Werjau::(4070- )—One of the Nascenti, formerly a Galeoth thane.
 Wernma River::An extensive river system in east central Eärwa, draining vast tracts of the Dameori Wilderness and emptying into the Meneanor Sea.
 Whelming::A hypnotic trance instrumental to Dûnyain Conditioning, and a purificatory rite of induction for the Zaudunyani.
 “When sorcerers sing, men die.”::The traditional expression used to refer to the fact that sorcery is destructive rather than constructive.
@@ -927,13 +927,13 @@ Writ of Psata-Antyu::The proclamation issued by the high clergy of the Thousand 
 Wutmouth River::The immense river joining Lake Huösi to the Meneanor Sea.
 wutrim::A Scylvendi word meaning “shame.”
 Xatantian Arch::The triumphal arch marking the ceremonial entrance to the Scuäri Campus, which depicts the military exploits of Emperor Surmante Xatantius. See Xatantius I.
-Xatantius I::(3644-93)—The most warlike of the Surmante Emperors of Nansur, Xatantius enlarged the Nansur Empire to its greatest extent, pacifying the Norsirai tribes of the Cepalor and for a time even managing to hold the far southern city of Invishi (though he failed to entirely subdue the Nilnameshi countryside). Despite his military successes, his continual wars exhausted both the Nansur people and the Imperial Treasury, inadvertently laying the groundwork for the disastrous wars against the Kianene following his death. See Nansur Empire.
+Xatantius I, Xatantius::(3644-93)—The most warlike of the Surmante Emperors of Nansur, Xatantius enlarged the Nansur Empire to its greatest extent, pacifying the Norsirai tribes of the Cepalor and for a time even managing to hold the far southern city of Invishi (though he failed to entirely subdue the Nilnameshi countryside). Despite his military successes, his continual wars exhausted both the Nansur people and the Imperial Treasury, inadvertently laying the groundwork for the disastrous wars against the Kianene following his death. See Nansur Empire.
 Xerash::A governorate of Kian and former province of the Nansur Empire. Located north of Eumarna on the Meneanor coast, Xerash is primarily known, through The Tractate, as the violent and debauched neighbour of Amoteu during the time of Inri Sejenus. See Amoteu.
 Xerashi::The lost language of scriptural Xerash, a derivative of Vaparsi.
 Xerius::See Ikurei Xerius III.
 Xiangic::The language group of the Xiuhianni peoples.
 Xijoser::(c. 670-c. 720)—An Old Dynasty God-King of Shigek, known primarily for the Ziggurat bearing his name.
-Xinemus, Krijates Xinemus::(4066- )—The Conriyan Marshal of Attrempus.
+Krijates Xinemus, Xinemus::(4066- )—The Conriyan Marshal of Attrempus.
 Xiuhianni::The black-haired, brown-eyed, olive-skinned race that still dwells beyond the Great Kayarsus. One of the Five Tribes of Men, who, according toThe Chronicle of the Tusk, refused to follow the other four tribes into Eärwa.
 Xius::(2847-2914)—The great Ceneian poet and playwright, famed for The Trucian Dramas.
 Xoägi’i::A Sranc tribe from the Plains of Gâl.
@@ -964,4 +964,11 @@ Ziek, Tower of Ziek::The prison, located in Momemn, used by the Nansur Emperors 
 Ziggurats of Shigek::The immense stepped pyramids found to the north of the Sempis Delta and raised by the ancient God-Kings of Shigek to serve as their mortuary tombs.
 Zirkirta::See Battle of Zirkirta.
 Zohurric::See Aghurzoi.
-Zursodda, Sammu, Sammu Zursodda::(4064-4111)—The Palatine-Governor of the Ainoni city of Koraphea, claimed by disease at Caraskand.
+Sammu Zursodda, Zursodda, Sammu::(4064-4111)—The Palatine-Governor of the Ainoni city of Koraphea, claimed by disease at Caraskand.
+
+Anasûrimbor Kellhus, Kellhus::(Ah-nas-soor-imb-or Kell-huss) a thirty-three-year-old Dûnyain monk
+Drusas Achamian, Drusas, Achamian::(Droo-sass Ah-kay-me-on) a forty-seven-year-old Mandate sorcerer
+Cnaiür::(Nay-yur) a forty-four-year-old Scylvendi barbarian, Chieftain of the Utemot
+Esmenet::(Ez-men-net) a thirty-one-year-old Sumni prostitute
+Serwë::(Sair-way) a nineteen-year-old Nymbricani concubine
+Anasûrimbor Moënghus, Moënghus::(Ah-nas-soor-imb-or Moe-eng-huss) Kellhus’s father

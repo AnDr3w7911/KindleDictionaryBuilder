@@ -21,7 +21,7 @@ class ContentReader(content: InputStream, private val delimiter: String = "::", 
             if (line.isNotBlank()) {
                 val tokens = line.split(delimiter)
                 if (tokens.size == 2) {
-                    val words = tokens[0].split(inflectionDelimiter)
+                    val words = if(tokens[0].startsWith("“")) listOf(tokens[0]) else tokens[0].split(inflectionDelimiter)
                     val inflections = words.asSequence().drop(1).toList()
                     content.add(Word(words[0], tokens[1], inflections))
                 } else {
