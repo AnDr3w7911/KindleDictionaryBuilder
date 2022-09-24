@@ -11,8 +11,8 @@ object App {
     fun main(args: Array<String>) {
         try {
             val builder = DictionaryBuilder("output/")
-                .cover("The Second Apocalypse Encyclopedic Glossary", "Andrew Turner")
-                .content("R:/Development/DictionaryBuilder/app/input/encyclopedicGlossary.txt")
+                .cover("The Aspect Emperor Encyclopedic Glossary", "Andrew Turner")
+                .content("R:/Development/DictionaryBuilder/app/input/aspectEmperorGlossary.txt")
                 .copyright()
             builder.build()
         } catch (e: IOException) {

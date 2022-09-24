@@ -11,7 +11,7 @@ class ContentReaderTest {
     @Throws(IOException::class)
     fun getContent(){
             val input = javaClass.classLoader.getResourceAsStream("definitions.txt")
-            ContentReader(input).use { reader ->
+            ContentReader(input!!).use { reader ->
                 val content = reader.readContent()
                 Assertions.assertEquals("Word1", content[0].word)
                 Assertions.assertEquals("definition1", content[0].definition)
@@ -26,6 +26,6 @@ class ContentReaderTest {
     @Throws(FileNotFoundException::class, IOException::class)
     fun invalidInputFileExtraTabs() {
         val input = javaClass.classLoader.getResourceAsStream("invalidDefs.txt")
-        ContentReader(input).use { reader -> Assertions.assertThrows(IOException::class.java) { reader.readContent() } }
+        ContentReader(input!!).use { reader -> Assertions.assertThrows(IOException::class.java) { reader.readContent() } }
     }
 }
